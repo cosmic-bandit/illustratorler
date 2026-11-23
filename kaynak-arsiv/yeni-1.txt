@@ -1,0 +1,85 @@
+= onculer
+@ bewick | Thomas Bewick | 1753–1828 | İngiltere | kamu
+# Ahşap gravür · Doğa tarihi · Kitap süsü
+> Ahşap gravürü yeniden icat eden İngiliz usta: tahtanın enine kesitini ince burinle oyarak metinle aynı baskıda basılabilen, son derece ayrıntılı görüntüler üretti. Doğadan gözlemleyerek çizdiği A History of British Birds doğa illüstrasyonunun klasiğidir; sayfa sonlarındaki küçük kuyruk süsleri kırsal hayatın mizahi sahneleridir.
+- Gay'in Masalları | Fables by the late Mr. Gay · kardeşi John ile | 1779 | Kitap illüstrasyonu | ?Bewick Gay fables
+- Tommy Trip'in Hayvanlar ve Kuşlar Kitabı | A Pretty Book of Pictures for Little Masters and Misses | 1779 | Çocuk kitabı | ?Bewick Tommy Trip
+- Seçme Masallar | Select Fables | 1784 | Kitap illüstrasyonu | ?Bewick Select Fables 1784
+- Chillingham Yaban Boğası | The Chillingham Wild Bull · büyük boy blok | 1789 | Ahşap gravür | ?Bewick Chillingham Bull
+- Dört Ayaklıların Genel Tarihi | A General History of Quadrupeds | 1790 | Doğa tarihi | ?Bewick General History of Quadrupeds
+- Zebra | A General History of Quadrupeds | 1790 | Ahşap gravür | ?Bewick zebra Quadrupeds
+- Gergedan | A General History of Quadrupeds | 1790 | Ahşap gravür | ?Bewick rhinoceros
+- Kirpi | A General History of Quadrupeds | 1790 | Ahşap gravür | ?Bewick hedgehog
+- İngiliz Kuşlarının Tarihi, Cilt I | A History of British Birds · kara kuşları | 1797 | Doğa tarihi | ?Bewick History of British Birds 1797
+- Alaca Baykuş | Tawny Owl · British Birds I | 1797 | Ahşap gravür | ?Bewick tawny owl
+- Kızılgerdan | Robin · British Birds I | 1797 | Ahşap gravür | ?Bewick robin redbreast
+- Saksağan | Magpie · British Birds I | 1797 | Ahşap gravür | ?Bewick magpie
+- Yeşil Ağaçkakan | Green Woodpecker · British Birds I | 1797 | Ahşap gravür | ?Bewick green woodpecker
+- Kırlangıç | Swallow · British Birds I | 1797 | Ahşap gravür | ?Bewick swallow
+- Kuyruk süsleri | Sayfa sonlarındaki küçük gündelik hayat sahneleri | 1797–1804 | Ahşap gravür | ?Bewick tailpiece
+- İngiliz Kuşlarının Tarihi, Cilt II | A History of British Birds · su kuşları | 1804 | Doğa tarihi | ?Bewick History of British Birds water birds
+- Balıkçıl | Heron · British Birds II | 1804 | Ahşap gravür | ?Bewick heron
+- Yaban Ördeği | Wild Duck · British Birds II | 1804 | Ahşap gravür | ?Bewick wild duck
+- Büyük Karasırtlı Martı | Great Black-backed Gull · British Birds II | 1804 | Ahşap gravür | ?Bewick gull
+- Ezop ve Diğerlerinin Masalları | The Fables of Aesop and Others | 1818 | Kitap illüstrasyonu | ?Bewick Fables of Aesop 1818
+- Tilki ile Üzüm | The Fables of Aesop and Others | 1818 | Ahşap gravür | ?Bewick fox and grapes
+- Kurt ile Kuzu | The Fables of Aesop and Others | 1818 | Ahşap gravür | ?Bewick wolf and lamb
+- Kuzgun ile Tilki | The Fables of Aesop and Others | 1818 | Ahşap gravür | ?Bewick fox and crow
+- Ölümü Beklerken | Waiting for Death · son, yarım kalmış büyük blok | 1828 | Ahşap gravür | ?Bewick Waiting for Death
+- Anılar | A Memoir of Thomas Bewick · ölümünden sonra yayımlandı | 1862 | Otobiyografi | ?Memoir of Thomas Bewick
+@ blake | William Blake | 1757–1827 | İngiltere | kamu
+# Kabartma baskı · Suluboya · Vizyoner
+> Şair, ressam ve gravürcü Blake, metni ve imgeyi aynı bakır levhada birleştirdiği kabartma baskı tekniğiyle kendi kitaplarını basıp elle boyadı. Kişisel mitolojisini anlatan kehanet kitapları ile Dante, Eyüp Kitabı ve Milton için yaptığı illüstrasyonlar Romantizmin en özgün görsel dünyasını kurdu.
+- Masumiyet Şarkıları | Songs of Innocence | 1789 | Kabartma baskı kitap | ?Blake Songs of Innocence title page
+- Thel'in Kitabı | The Book of Thel | 1789 | Kabartma baskı kitap | ?Blake Book of Thel
+- Cennet ile Cehennemin Evliliği | The Marriage of Heaven and Hell | 1790–93 | Kabartma baskı kitap | ?Blake Marriage of Heaven and Hell plate
+- Albion Kızlarının Görüleri | Visions of the Daughters of Albion | 1793 | Kabartma baskı kitap | ?Blake Visions of the Daughters of Albion
+- Amerika: Bir Kehanet | America a Prophecy | 1793 | Kabartma baskı kitap | ?Blake America a Prophecy
+- Masumiyet ve Deneyim Şarkıları | Songs of Innocence and of Experience | 1794 | Kabartma baskı kitap | ?Blake Songs of Innocence and of Experience
+- Kaplan | The Tyger · Deneyim Şarkıları | 1794 | Kabartma baskı | ?Blake The Tyger
+- Avrupa: Bir Kehanet | Europe a Prophecy | 1794 | Kabartma baskı kitap | ?Blake Europe a Prophecy
+- Günlerin Yaşlısı | The Ancient of Days · Avrupa'nın ön levhası | 1794 | Kabartma baskı | ?Blake Ancient of Days
+- Urizen'in İlk Kitabı | The First Book of Urizen | 1794 | Kabartma baskı kitap | ?Blake First Book of Urizen
+- Newton | Renkli baskı | 1795 | Renkli baskı | ?Blake Newton Tate
+- Nebukadnezar | Renkli baskı | 1795 | Renkli baskı | ?Blake Nebuchadnezzar
+- Acıma | Pity · renkli baskı | 1795 | Renkli baskı | ?Blake Pity
+- Gece Düşünceleri | Night Thoughts · Edward Young | 1797 | Kitap illüstrasyonu | ?Blake Night Thoughts
+- Thomas Gray'in Şiirleri | 116 suluboya | 1797–98 | Suluboya | ?Blake Gray poems watercolour
+- Milton: Bir Şiir | Milton a Poem | 1804–11 | Kabartma baskı kitap | ?Blake Milton a Poem plate
+- Kudüs | Jerusalem: The Emanation of the Giant Albion | 1804–20 | Kabartma baskı kitap | ?Blake Jerusalem plate
+- Büyük Kızıl Ejderha | The Great Red Dragon · suluboya serisi | c. 1805 | Suluboya | ?Blake Great Red Dragon Woman Clothed in Sun
+- Kaybolmuş Cennet | Paradise Lost suluboyaları | 1807–08 | Suluboya | ?Blake Paradise Lost Satan Rebel Angels
+- Mezar | The Grave · Robert Blair | 1808 | Kitap illüstrasyonu | ?Blake The Grave Blair
+- Pirenin Hayaleti | The Ghost of a Flea | c. 1819–20 | Tempera | ?Blake Ghost of a Flea
+- Vergilius Pastoralleri | Thornton'ın Vergilius'u için ahşap gravürler | 1821 | Ahşap gravür | ?Blake Virgil Thornton wood engraving
+- Eyüp Kitabı İllüstrasyonları | Illustrations of the Book of Job | 1826 | Gravür | ?Blake Book of Job engraving
+- İlahi Komedya | Dante suluboyaları | 1824–27 | Suluboya | ?Blake Dante Divine Comedy watercolour
+- Âşıkların Kasırgası | The Lovers' Whirlwind · Francesca da Rimini | 1824–27 | Gravür | ?Blake Lovers Whirlwind Francesca
+@ cruikshank | George Cruikshank | 1792–1878 | İngiltere | kamu
+# Gravür · Karikatür · Dickens
+> Regency döneminin keskin siyasi karikatüristi olarak başladı; Dickens'ın Oliver Twist'i ve Grimm masallarının ilk İngilizce baskısı gibi kitaplarla Viktorya döneminin en aranan kitap illüstratörü oldu. Son yıllarını adadığı içki karşıtı The Bottle serisi, toplumsal propaganda baskısının öncülerindendir.
+- Jack'in Yaptığı Siyasi Ev | The Political House That Jack Built · William Hone | 1819 | Hiciv | ?Cruikshank Political House that Jack Built
+- Banka Kısıtlama Banknotu | Bank Restriction Note · sahte banknot hicvi | 1819 | Hiciv | ?Cruikshank Bank Restriction Note
+- Kraliçenin Evlilik Merdiveni | The Queen's Matrimonial Ladder | 1820 | Hiciv | ?Cruikshank Queen's Matrimonial Ladder
+- Londra'da Hayat | Life in London · Pierce Egan, kardeşi Robert ile | 1821 | Kitap illüstrasyonu | ?Cruikshank Life in London Tom and Jerry
+- 1822'nin Ucubeleri | Monstrosities of 1822 · moda hicvi | 1822 | Hiciv | ?Cruikshank Monstrosities of 1822
+- Alman Halk Masalları | German Popular Stories · Grimm'in ilk İngilizce baskısı | 1823 | Kitap illüstrasyonu | ?Cruikshank German Popular Stories Grimm
+- Mizah Noktaları | Points of Humour | 1823 | Kitap illüstrasyonu | ?Cruikshank Points of Humour
+- Peter Schlemihl | Gölgesini satan adam | 1824 | Kitap illüstrasyonu | ?Cruikshank Peter Schlemihl
+- Frenolojik İllüstrasyonlar | Phrenological Illustrations | 1826 | Hiciv | ?Cruikshank Phrenological Illustrations
+- Zamanın İllüstrasyonları | Illustrations of Time | 1827 | Hiciv | ?Cruikshank Illustrations of Time
+- Karalamalar ve Eskizler | Scraps and Sketches | 1828–32 | Hiciv | ?Cruikshank Scraps and Sketches
+- Komik Almanak | The Comic Almanack | 1835–53 | Yıllık | ?Cruikshank Comic Almanack
+- Boz'un Eskizleri | Sketches by Boz · Charles Dickens | 1836 | Kitap illüstrasyonu | ?Cruikshank Sketches by Boz
+- Joseph Grimaldi'nin Anıları | Memoirs of Joseph Grimaldi · ed. Dickens | 1838 | Kitap illüstrasyonu | ?Cruikshank Grimaldi
+- Oliver Twist | Charles Dickens | 1838 | Kitap illüstrasyonu | ?Cruikshank Oliver Twist illustration
+- Oliver Biraz Daha İstiyor | Oliver asking for more · Oliver Twist | 1838 | Kitap illüstrasyonu | ?Cruikshank Oliver asking for more
+- İdam Hücresinde Fagin | Fagin in the Condemned Cell · Oliver Twist | 1838 | Kitap illüstrasyonu | ?Cruikshank Fagin condemned cell
+- Lord Bateman Baladı | The Loving Ballad of Lord Bateman | 1839 | Kitap illüstrasyonu | ?Cruikshank Lord Bateman
+- Jack Sheppard | W. H. Ainsworth | 1839 | Kitap illüstrasyonu | ?Cruikshank Jack Sheppard
+- Londra Kulesi | The Tower of London · W. H. Ainsworth | 1840 | Kitap illüstrasyonu | ?Cruikshank Tower of London Ainsworth
+- Şişe | The Bottle · sekiz levhalık içki karşıtı seri | 1847 | Baskı serisi | ?Cruikshank The Bottle
+- Ayyaşın Çocukları | The Drunkard's Children | 1848 | Baskı serisi | ?Cruikshank Drunkard's Children
+- Tom Amca'nın Kulübesi | Uncle Tom's Cabin · İngiliz baskısı | 1852 | Kitap illüstrasyonu | ?Cruikshank Uncle Tom's Cabin
+- Masal Kütüphanesi | George Cruikshank's Fairy Library | 1853–64 | Kitap illüstrasyonu | ?Cruikshank Fairy Library Cinderella
+- Bacchus'a Tapınma | The Worship of Bacchus · dev tablo ve gravürü | 1862 | Yağlıboya / gravür | ?Cruikshank Worship of Bacchus

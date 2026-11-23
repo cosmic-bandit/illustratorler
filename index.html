@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>İllüstratörler Kataloğu</title>
+<meta name="description" content="Resimli kitaptan sokak afişine, bugün hâlâ üreten 100 çağdaş illüstratör ve 2.500 eser.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%231b1916'/><text x='32' y='45' font-family='Georgia' font-size='38' font-style='italic' fill='%23f5f1e9' text-anchor='middle'>İ</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--paper:#f5f1e9;--paper2:#ece6da;--ink:#1b1916;--mute:#6d665c;--line:#d9d1c2;--serif:"Fraunces",Georgia,serif;--sans:"Inter",system-ui,-apple-system,sans-serif}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:84px}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.55;-webkit-font-smoothing:antialiased}
+a{color:inherit}
+.wrap{max-width:1320px;margin:0 auto;padding:0 28px}
+/* hero */
+.hero{padding:64px 0 36px;border-bottom:1px solid var(--line)}
+.kicker{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--mute);margin:0 0 18px}
+.hero h1{font-family:var(--serif);font-weight:800;font-size:clamp(44px,7.4vw,104px);line-height:.92;letter-spacing:-.02em;margin:0;font-variation-settings:"opsz" 144}
+.hero h1 em{font-style:italic;font-weight:400}
+.hero .lede{max-width:640px;font-size:17px;color:#3c3730;margin:22px 0 0}
+.stats{display:flex;gap:40px;flex-wrap:wrap;margin-top:36px}
+.stat b{display:block;font-family:var(--serif);font-size:40px;font-weight:600;line-height:1}
+.stat span{font-size:12px;color:var(--mute);letter-spacing:.06em;text-transform:uppercase}
+.strip{display:flex;height:6px;margin-top:40px;border-radius:3px;overflow:hidden}
+.strip i{flex:1}
+/* toc */
+.toc{display:grid;grid-template-columns:repeat(4,1fr);gap:28px;padding:36px 0 44px;border-bottom:1px solid var(--line)}
+.toc-era h4{font-family:var(--serif);font-weight:600;font-size:17px;margin:0 0 10px;padding-top:10px;border-top:3px solid var(--era)}
+.toc-era ol{list-style:none;margin:0;padding:0}
+.toc-era a{display:flex;gap:10px;align-items:baseline;text-decoration:none;padding:4px 0;font-size:14px}
+.toc-era a:hover{color:var(--era)}
+.tnum{font-variant-numeric:tabular-nums;color:var(--mute);font-size:12px;width:18px}
+.tyears{margin-left:auto;color:var(--mute);font-size:12px;white-space:nowrap}
+/* toolbar */
+.bar{position:sticky;top:0;z-index:20;background:rgba(245,241,233,.92);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.bar .wrap{display:flex;gap:10px;align-items:center;padding-top:12px;padding-bottom:12px;flex-wrap:wrap}
+.search{flex:1 1 240px;min-width:200px;position:relative}
+.search input{width:100%;font:inherit;padding:10px 14px 10px 36px;border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--ink);outline:none}
+.search input:focus{border-color:var(--ink)}
+.search svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);opacity:.5}
+.chip{font:inherit;font-size:13px;padding:8px 14px;border-radius:999px;border:1px solid var(--line);background:#fff;color:var(--ink);cursor:pointer;display:inline-flex;align-items:center;gap:8px}
+.chip::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--era,var(--ink))}
+.chip[aria-pressed="true"]{background:var(--ink);color:#fff;border-color:var(--ink)}
+.chip.all::before{display:none}
+.chips{display:flex;gap:8px;flex-wrap:wrap}
+.chip{white-space:nowrap}
+.count{font-size:12px;color:var(--mute);margin-left:auto;white-space:nowrap}
+/* era */
+.era{padding-top:56px}
+.era-head{display:grid;grid-template-columns:auto 1fr;column-gap:14px;align-items:center;padding-bottom:18px;border-bottom:2px solid var(--ink);margin-bottom:8px}
+.era-dot{width:14px;height:14px;border-radius:50%;background:var(--era)}
+.era-head h2{font-family:var(--serif);font-weight:800;font-size:clamp(30px,4vw,48px);margin:0;letter-spacing:-.01em}
+.era-range{grid-column:2;font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--mute)}
+.era-head p{grid-column:2;margin:6px 0 0;max-width:720px;color:#3c3730}
+/* artist */
+.artist{display:grid;grid-template-columns:minmax(260px,330px) 1fr;gap:40px;padding:40px 0;border-bottom:1px solid var(--line)}
+.a-head{position:sticky;top:84px;align-self:start}
+.a-num{font-family:var(--serif);font-size:15px;color:var(--era);font-weight:600;letter-spacing:.05em}
+.a-head h3{font-family:var(--serif);font-weight:600;font-size:34px;line-height:1.02;margin:6px 0 8px;letter-spacing:-.01em}
+.a-meta{margin:0;color:var(--mute);font-size:14px}
+.a-tags{list-style:none;padding:0;margin:14px 0 0;display:flex;flex-wrap:wrap;gap:6px}
+.a-tags li{font-size:12px;padding:3px 10px;border-radius:999px;background:var(--soft);color:var(--ink)}
+.a-bio{margin:18px 0 0;font-size:15px;color:#2e2a25}
+.a-rights{margin:16px 0 0;font-size:12px;color:var(--mute);padding-top:12px;border-top:1px dashed var(--line)}
+.works{display:grid;grid-template-columns:repeat(5,1fr);gap:22px 16px}
+.work{margin:0;min-width:0}
+.media{display:block;width:100%;aspect-ratio:4/5;border:0;padding:0;margin:0;border-radius:6px;overflow:hidden;position:relative;cursor:pointer;text-decoration:none}
+.media.img{background:var(--paper2)}
+.media.img img{width:100%;height:100%;object-fit:contain;padding:8px;display:block;transition:transform .35s ease}
+.media.img:hover img{transform:scale(1.04)}
+.media.img::after{content:"";position:absolute;inset:0;box-shadow:inset 0 0 0 1px rgba(0,0,0,.06);border-radius:6px;pointer-events:none}
+.media.type{background:var(--soft);color:var(--ink);display:flex;flex-direction:column;justify-content:space-between;padding:14px;transition:background .25s}
+.media.type:hover{background:var(--era);color:#fff}
+.t-year{font-family:var(--serif);font-size:clamp(22px,2.2vw,30px);font-weight:600;line-height:1;color:var(--era)}
+.media.type:hover .t-year{color:#fff}
+.t-title{font-family:var(--serif);font-size:16px;line-height:1.15;font-weight:600;display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden}
+.t-go{font-size:11px;letter-spacing:.06em;text-transform:uppercase;opacity:.75}
+figcaption{padding-top:10px;display:flex;flex-direction:column;gap:2px}
+.wnum{font-size:11px;color:var(--era);font-weight:600;font-variant-numeric:tabular-nums}
+.wtitle{font-weight:600;font-size:14px;line-height:1.25}
+.wsub{font-size:12px;color:var(--mute);line-height:1.35}
+.wmeta{font-size:11px;color:var(--mute);letter-spacing:.03em;margin-top:2px}
+.hidden{display:none!important}
+.empty{padding:80px 0;text-align:center;color:var(--mute);font-family:var(--serif);font-size:22px}
+/* lightbox */
+.lb{position:fixed;inset:0;z-index:50;background:rgba(20,18,15,.92);display:none;align-items:center;justify-content:center;flex-direction:column;padding:24px}
+.lb.open{display:flex}
+.lb img{max-width:min(92vw,1000px);max-height:78vh;object-fit:contain;border-radius:4px;background:#fff}
+.lb .cap{color:#efe9de;margin-top:14px;font-family:var(--serif);font-size:18px;text-align:center}
+.lb .src{color:#b9b1a3;font-size:12px;margin-top:6px}
+.lb .src a{color:#efe9de}
+.lb .x{position:absolute;top:16px;right:20px;background:none;border:0;color:#fff;font-size:34px;cursor:pointer;line-height:1}
+.lb .nav{position:absolute;top:50%;transform:translateY(-50%);background:rgba(255,255,255,.1);border:0;color:#fff;font-size:28px;width:48px;height:48px;border-radius:50%;cursor:pointer}
+.lb .prev{left:16px} .lb .next{right:16px}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}.media.img img{transition:none}}
+footer{padding:48px 0 72px;color:var(--mute);font-size:13px}
+footer p{max-width:760px}
+@media (max-width:1100px){.works{grid-template-columns:repeat(4,1fr)}.toc{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:860px){.artist{grid-template-columns:1fr;gap:22px}.a-head{position:static}.works{grid-template-columns:repeat(3,1fr)}}
+@media (max-width:560px){html{scroll-padding-top:120px}.bar .wrap{gap:8px;padding-top:10px;padding-bottom:10px}.search{flex-basis:100%}.chips{flex-wrap:nowrap;overflow-x:auto;width:100%;scrollbar-width:none;-webkit-overflow-scrolling:touch}.chips::-webkit-scrollbar{display:none}.count{display:none}.a-head h3{font-size:30px}.wrap{padding:0 16px}.works{grid-template-columns:repeat(2,1fr);gap:18px 12px}.toc{grid-template-columns:1fr}.stats{gap:24px}.hero{padding-top:40px}.lb .nav{display:none}}
+
+.loading{padding:120px 0;text-align:center;color:var(--mute);font-family:var(--serif);font-size:22px}
+.toc-era ol{columns:1}
+</style>
+</head>
+<body>
+<header class="hero"><div class="wrap">
+<p class="kicker">Çağdaş illüstrasyon · Katalog</p>
+<h1>İllüstratörler<br><em>Kataloğu</em></h1>
+<p class="lede" id="lede">Resimli kitaptan sokak afişine, bugün hâlâ üreten çağdaş illüstratörler. Her biri için kısa bir portre ve en bilinen eserleri.</p>
+<div class="stats" id="stats"></div>
+<div class="strip" id="strip"></div>
+</div></header>
+<nav class="wrap toc" id="toc" aria-label="İçindekiler"></nav>
+<div class="bar"><div class="wrap">
+ <label class="search"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+ <input id="q" type="search" placeholder="İllüstratör, eser veya teknik ara…" autocomplete="off"></label>
+ <div class="chips" id="chips"><button class="chip all" data-era="" aria-pressed="true">Tümü</button></div>
+ <span class="count" id="count"></span>
+</div></div>
+<main class="wrap" id="main"><p class="loading" id="loading">Katalog yükleniyor…</p></main>
+<p class="wrap empty hidden" id="empty">Aramanızla eşleşen bir sonuç yok.</p>
+<footer class="wrap">
+<p><b>Görseller hakkında.</b> Katalogdaki bütün sanatçılar yaşıyor ve eserlerinin telif hakkı sürüyor; bu yüzden görsel kopyalanmadı. Her eser kartı, o eserin görsel aramasını yeni sekmede açar.</p>
+<p>Seçki beş kategoride toplandı: resimli kitap, çizgi roman ve manga, film/oyun ve fantastik, editoryal, afiş ve grafik. Afiş ve grafik kategorisi albüm kapağı, kimlik, tipografi ve sokak sanatını da kapsar. <span id="stamp"></span></p>
+</footer>
+<div class="lb" id="lb" role="dialog" aria-modal="true" aria-label="Görsel">
+ <button class="x" id="lbx" aria-label="Kapat">×</button>
+ <button class="nav prev" id="lbp" aria-label="Önceki">‹</button>
+ <img id="lbi" alt="">
+ <div class="cap" id="lbc"></div>
+ <div class="src" id="lbs"></div>
+ <button class="nav next" id="lbn" aria-label="Sonraki">›</button>
+</div>
+<script>
+(function(){
+var TR=/[çğıöşüÇĞİÖŞÜ]/;
+function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+function norm(s){return (s||'').toLocaleLowerCase('tr').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/ı/g,'i');}
+function pad(n){return (n<10?'0':'')+n;}
+function fmt(n){return n.toLocaleString('tr-TR');}
+function araUrl(a,w){
+  var ilk=(w.alt||'').split(' · ')[0].trim(), q=a.ad+' '+w.baslik;
+  if(ilk && !TR.test(ilk) && ilk.length<=45 && ilk.toLowerCase()!==w.baslik.toLowerCase()) q+=' '+ilk;
+  return 'https://www.google.com/search?tbm=isch&q='+encodeURIComponent(q).replace(/%20/g,'+');
+}
+function kart(a,w,i){
+  var hay=esc([a.ad,w.baslik,w.alt,w.tur,w.yil].join(' ').toLowerCase()), media;
+  if(w.gorsel){
+    media='<button class="media img" data-full="'+esc(w.gorsel)+'" data-src="'+esc(w.kaynak||'')+'" data-cap="'+esc(a.ad+' — '+w.baslik+' ('+w.yil+')')+'" aria-label="'+esc(w.baslik)+' görselini büyüt"><img src="'+esc(w.gorsel)+'" alt="'+esc(a.ad+', '+w.baslik)+'" loading="lazy" decoding="async"></button>';
+  } else {
+    media='<a class="media type" href="'+esc(araUrl(a,w))+'" target="_blank" rel="noopener"><span class="t-year">'+esc(w.yil)+'</span><span class="t-title">'+esc(w.baslik)+'</span><span class="t-go">Görselleri ara ↗</span></a>';
+  }
+  return '<figure class="work" data-hay="'+hay+'">'+media+'<figcaption><span class="wnum">'+pad(i+1)+'</span><span class="wtitle">'+esc(w.baslik)+'</span><span class="wsub">'+esc(w.alt)+'</span><span class="wmeta">'+esc(w.yil)+' · '+esc(w.tur)+'</span></figcaption></figure>';
+}
+function sanatci(a,num,d){
+  var tags=a.etiketler.map(function(t){return '<li>'+esc(t)+'</li>';}).join('');
+  var hay=esc([a.ad,a.ulke,a.etiketler.join(' '),a.bio].join(' ').toLowerCase());
+  var hak='Eserler telifli · kartlar görsel aramasına bağlanır';
+  return '<article class="artist" id="'+esc(a.slug)+'" data-era="'+d.id+'" data-hay="'+hay+'" style="--era:'+d.renk+';--soft:'+d.acik+'"><header class="a-head"><div class="a-num">'+pad(num)+'</div><div class="a-id"><h3>'+esc(a.ad)+'</h3><p class="a-meta">'+esc(a.yillar)+' · '+esc(a.ulke)+'</p><ul class="a-tags">'+tags+'</ul></div><p class="a-bio">'+esc(a.bio)+'</p><p class="a-rights">'+hak+'</p></header><div class="works">'+a.eserler.map(function(w,i){return kart(a,w,i);}).join('')+'</div></article>';
+}
+function kur(K){
+  var D={},n=0,toc='',secs=[],eser=0,gorsel=0,U={};
+  K.donemler.forEach(function(d){D[d.id]=d;});
+  K.donemler.forEach(function(d){
+    var arts=K.sanatcilar.filter(function(a){return a.donem===d.id;});
+    if(!arts.length) return;
+    var items='',blocks='';
+    arts.forEach(function(a){
+      n++; eser+=a.eserler.length; a.eserler.forEach(function(w){if(w.gorsel) gorsel++;}); String(a.ulke||'').replace(/\(.*?\)/g,'').split('/').forEach(function(u){u=u.trim(); if(u) U[u]=1;});
+      items+='<li><a href="#'+esc(a.slug)+'"><span class="tnum">'+pad(n)+'</span>'+esc(a.ad)+'<span class="tyears">'+esc(a.yillar)+'</span></a></li>';
+      blocks+=sanatci(a,n,d);
+    });
+    toc+='<div class="toc-era" style="--era:'+d.renk+'"><h4>'+esc(d.ad)+'</h4><ol>'+items+'</ol></div>';
+    secs.push('<section class="era" data-era="'+d.id+'" style="--era:'+d.renk+';--soft:'+d.acik+'"><div class="era-head"><span class="era-dot"></span><h2>'+esc(d.ad)+'</h2><span class="era-range">'+esc(d.aralik)+' · '+arts.length+' illüstratör</span><p>'+esc(d.aciklama)+'</p></div>'+blocks+'</section>');
+  });
+  var ulke=Object.keys(U).length;
+  document.getElementById('stats').innerHTML=[[n,'İllüstratör'],[eser,'Eser'],[K.donemler.length,'Kategori'],[ulke,'Ülke']].map(function(s){return '<div class="stat"><b>'+fmt(s[0])+'</b><span>'+s[1]+'</span></div>';}).join('');
+  document.getElementById('strip').innerHTML=K.donemler.map(function(d){return '<i style="background:'+d.renk+'"></i>';}).join('');
+  document.getElementById('lede').textContent='Resimli kitaptan sokak afişine, bugün hâlâ üreten '+n+' çağdaş illüstratör. Her biri için kısa bir portre ve en bilinen '+Math.round(eser/n)+' eseri.';
+  document.getElementById('toc').innerHTML=toc;
+  document.getElementById('chips').insertAdjacentHTML('beforeend',K.donemler.map(function(d){return '<button class="chip" data-era="'+d.id+'" style="--era:'+d.renk+'">'+esc(d.ad)+'</button>';}).join(''));
+  if(K.guncelleme) document.getElementById('stamp').textContent='Son güncelleme: '+K.guncelleme+'.';
+  var main=document.getElementById('main'); main.innerHTML=secs[0]||'';
+  var i=1;
+  (function devam(){ if(i<secs.length){ main.insertAdjacentHTML('beforeend',secs[i++]); requestAnimationFrame(devam);} else bitti(); })();
+}
+function bitti(){
+  var q=document.getElementById('q'),chips=[].slice.call(document.querySelectorAll('.chip')),era='';
+  var artists=[].slice.call(document.querySelectorAll('.artist')),eras=[].slice.call(document.querySelectorAll('.era'));
+  var cnt=document.getElementById('count'),empty=document.getElementById('empty'),t;
+  artists.forEach(function(a){a._h=norm(a.dataset.hay);a._w=[].slice.call(a.querySelectorAll('.work'));a._w.forEach(function(w){w._h=norm(w.dataset.hay);});});
+  function apply(){
+    var s=norm(q.value.trim()),na=0,nw=0;
+    artists.forEach(function(a){
+      var okEra=!era||a.dataset.era===era, hit=!s||a._h.indexOf(s)>-1, any=false;
+      a._w.forEach(function(w){var h=okEra&&(hit||w._h.indexOf(s)>-1);w.classList.toggle('hidden',!h);if(h){any=true;nw++;}});
+      a.classList.toggle('hidden',!any); if(any) na++;
+    });
+    eras.forEach(function(e){e.classList.toggle('hidden',!e.querySelector('.artist:not(.hidden)'));});
+    empty.classList.toggle('hidden',na>0);
+    cnt.textContent=na+' illüstratör · '+fmt(nw)+' eser';
+  }
+  q.addEventListener('input',function(){clearTimeout(t);t=setTimeout(apply,120);});
+  chips.forEach(function(c){c.addEventListener('click',function(){era=c.dataset.era;chips.forEach(function(x){x.setAttribute('aria-pressed',x===c?'true':'false');});apply();});});
+  apply();
+  if(location.hash){var el=document.getElementById(decodeURIComponent(location.hash.slice(1)));if(el) el.scrollIntoView();}
+}
+// görüntüleyici
+var lb=document.getElementById('lb'),lbi=document.getElementById('lbi'),lbc=document.getElementById('lbc'),lbs=document.getElementById('lbs'),list=[],idx=0;
+function show(i){var b=list[i];if(!b)return;idx=i;lbi.src=b.dataset.full;lbi.alt=b.dataset.cap;lbc.textContent=b.dataset.cap;lbs.innerHTML='';if(b.dataset.src){var a=document.createElement('a');a.href=b.dataset.src;a.target='_blank';a.rel='noopener';a.textContent='Kaynak: Wikimedia Commons ↗';lbs.appendChild(a);}}
+document.addEventListener('click',function(e){var b=e.target.closest('.media.img');if(!b)return;list=[].slice.call(document.querySelectorAll('.work:not(.hidden) .media.img'));show(list.indexOf(b));lb.classList.add('open');});
+function close(){lb.classList.remove('open');lbi.removeAttribute('src');}
+document.getElementById('lbx').addEventListener('click',close);
+document.getElementById('lbp').addEventListener('click',function(){show((idx-1+list.length)%list.length);});
+document.getElementById('lbn').addEventListener('click',function(){show((idx+1)%list.length);});
+lb.addEventListener('click',function(e){if(e.target===lb)close();});
+document.addEventListener('keydown',function(e){if(!lb.classList.contains('open'))return;if(e.key==='Escape')close();if(e.key==='ArrowLeft')show((idx-1+list.length)%list.length);if(e.key==='ArrowRight')show((idx+1)%list.length);});
+fetch('data/katalog.json',{cache:'no-cache'}).then(function(r){return r.json();}).then(kur).catch(function(){document.getElementById('loading').textContent='Katalog yüklenemedi. Sayfayı yenileyin.';});
+})();
+</script>
+</body>
+</html>

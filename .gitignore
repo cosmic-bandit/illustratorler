@@ -1,0 +1,6 @@
+.DS_Store
+.vercel
+.vercel-token
+*.local
+.env*
+__pycache__/

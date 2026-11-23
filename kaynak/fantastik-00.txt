@@ -1,0 +1,225 @@
+= fantastik
+@ alan-lee | Alan Lee | 1947– | İngiltere | telif
+# Suluboya · Kurşunkalem · Tolkien
+> Tolkien'in Orta Dünya'sının en tanınmış illüstratörü: sisli, ışık dolu suluboyaları Yüzüklerin Efendisi'nin 1991 yüzüncü yıl baskısıyla klasikleşti. Peter Jackson'ın film üçlemesinde kavramsal tasarımcı olarak çalıştı ve Kralın Dönüşü ile Oscar kazandı.
+- Periler | Faeries · Brian Froud ile | 1978 | Kitap
+- Mabinogion | Gal mitolojisi | 1982 | Kitap illüstrasyonu
+- Şatolar | Castles | 1984 | Kitap illüstrasyonu
+- Efsane | Legend · Ridley Scott filmi kavramsal tasarım | 1985 | Film tasarımı
+- Ayna Taşı | The Mirrorstone · Michael Palin | 1986 | Kitap illüstrasyonu
+- Ay'ın İntikamı | The Moon's Revenge · Joan Aiken | 1987 | Kitap illüstrasyonu
+- Merlin'in Düşleri | Merlin Dreams · Peter Dickinson | 1988 | Kitap illüstrasyonu
+- Viking Erik | Erik the Viking · film tasarımı | 1989 | Film tasarımı
+- Yüzüklerin Efendisi | Yüzüncü yıl baskısı · 50 suluboya | 1991 | Kitap illüstrasyonu
+- Truva'ya Kara Gemiler | Black Ships Before Troy · Rosemary Sutcliff | 1993 | Kitap illüstrasyonu
+- Kate Greenaway Madalyası | Truva'ya Kara Gemiler ile | 1993 | Ödül
+- Odysseus'un Gezileri | The Wanderings of Odysseus · Rosemary Sutcliff | 1995 | Kitap illüstrasyonu
+- Hobbit | The Hobbit | 1997 | Kitap illüstrasyonu
+- Tolkien takvimleri | Yüzüklerin Efendisi takvimleri | 1990'lar | Takvim
+- Yüzüklerin Efendisi film üçlemesi | Kavramsal tasarım · John Howe ile | 2001–03 | Film tasarımı
+- Oscar | En İyi Sanat Yönetimi · Kralın Dönüşü | 2004 | Ödül
+- Yüzüklerin Efendisi 50. yıl baskısı | Ellinci yıl baskısı | 2004 | Kitap illüstrasyonu
+- Yüzüklerin Efendisi Eskiz Defteri | The Lord of the Rings Sketchbook | 2005 | Sanat kitabı
+- Húrin'in Çocukları | The Children of Húrin | 2007 | Kitap illüstrasyonu
+- Tehlikeli Diyarın Hikâyeleri | Tales from the Perilous Realm | 2008 | Kitap illüstrasyonu
+- Hobbit film üçlemesi | Kavramsal tasarım | 2012–14 | Film tasarımı
+- Beren ve Lúthien | Beren and Lúthien | 2017 | Kitap illüstrasyonu
+- Gondolin'in Düşüşü | The Fall of Gondolin | 2018 | Kitap illüstrasyonu
+- Hobbit Eskiz Defteri | The Hobbit Sketchbook | 2019 | Sanat kitabı
+- Númenor'un Düşüşü | The Fall of Númenor | 2022 | Kitap illüstrasyonu
+@ brian-froud | Brian Froud | 1947– | İngiltere | telif
+# Suluboya · Kurşunkalem · Peri folkloru
+> Peri ve goblin folklorunu modern fantastik kültürün temel imgelerinden birine dönüştüren İngiliz sanatçı. Alan Lee'yle yaptığı Faeries kitabının ardından Jim Henson'ın The Dark Crystal ve Labyrinth filmlerinin kavramsal tasarımcısı oldu; Labyrinth'teki bebek Toby, oğlu Toby Froud'dur.
+- The Land of Froud | Çizim derlemesi | 1977 | Kitap
+- Periler | Faeries · Alan Lee ile | 1978 | Kitap
+- Master Snickup's Cloak | Resimli kitap | 1978 | Kitap
+- Faeries (film) | Animasyon filmi | 1981 | Animasyon
+- Kara Kristal | The Dark Crystal · Jim Henson, kavramsal tasarım | 1982 | Film tasarımı
+- The World of the Dark Crystal | Filmin eşlikçi kitabı | 1982 | Kitap
+- Goblins: Açılır Kitap | Goblins pop-up book | 1983 | Kitap
+- Labirent | Labyrinth · Jim Henson, kavramsal tasarım | 1986 | Film tasarımı
+- The Goblins of Labyrinth | Filmin eşlikçi kitabı | 1986 | Kitap
+- The Storyteller | Hans My Hedgehog · kavramsal tasarım | 1987 | Televizyon
+- Little Nemo: Adventures in Slumberland | Tasarım | 1989 | Animasyon
+- The Dreaming Place | Charles de Lint | 1990 | Kitap illüstrasyonu
+- Lady Cottington's Pressed Fairy Book | Terry Jones ile | 1994 | Kitap
+- Something Rich and Strange | Patricia A. McKillip | 1994 | Kitap illüstrasyonu
+- The Wild Wood | Charles de Lint | 1994 | Kitap illüstrasyonu
+- The Wood Wife | Terri Windling | 1996 | Kitap illüstrasyonu
+- Good Faeries/Bad Faeries | Kitap | 1998 | Kitap
+- The Faeries' Oracle | Jessica Macbeth ile kart destesi | 2000 | Kitap
+- The Runes of Elfland | Ari Berk ile | 2003 | Kitap
+- Goblins! | Kitap | 2004 | Kitap
+- The Secret Sketchbooks of Brian Froud | Eskizler | 2005 | Kitap
+- Brian Froud's World of Faerie | Kitap | 2007 | Kitap
+- Trolls | Wendy Froud ile | 2012 | Kitap
+- Faeries' Tales | Wendy Froud ile | 2014 | Kitap
+- The Dark Crystal: Age of Resistance | Netflix dizisi · baş kavramsal tasarımcı | 2019 | Televizyon
+@ charles-vess | Charles Vess | 1951– | ABD | telif
+# Mürekkep · Suluboya · Halk baladı
+> Kelt ve Appalaş halk masallarından beslenen ince mürekkep çizgisi ve yumuşak renkleriyle tanınan Amerikalı sanatçı. Neil Gaiman'la yaptığı Sandman #19 "Bir Yaz Gecesi Rüyası" kurgu dalında World Fantasy Ödülü alan ilk çizgi roman oldu; Ursula K. Le Guin'in Yerdeniz kitaplarının resimli tam baskısını çizdi.
+- The Horns of Elfland | Yazıp çizdiği | 1979 | Çizgi roman
+- The Raven Banner | Marvel Graphic Novel #15 · Alan Zelenetz | 1985 | Grafik roman
+- The Book of Night | Dark Horse | 1987 | Çizgi roman
+- Warriors Three Saga | Marvel Fanfare #34–37 | 1987 | Çizgi roman
+- Spider-Man: Spirits of the Earth | Grafik roman | 1990 | Grafik roman
+- The Books of Magic | Neil Gaiman · The Land of Summer's Twilight | 1990 | Çizgi roman
+- Sandman #19: Bir Yaz Gecesi Rüyası | Neil Gaiman · World Fantasy Ödülü | 1990 | Çizgi roman
+- Kanca | Hook · resmî çizgi roman uyarlaması | 1991 | Çizgi roman
+- Swamp Thing | 129–139. sayı kapakları | 1993 | Çizgi roman kapağı
+- The Book of Ballads and Sagas | Kendi yayımladığı dizi | 1995 | Çizgi roman
+- Sandman #75: The Tempest | Neil Gaiman | 1996 | Çizgi roman
+- Yıldız Tozu | Stardust · Neil Gaiman, 175 resim | 1997 | Resimli roman
+- A Fall of Stardust | Green Man Press portfolyosu | 1999 | Portfolyo
+- Promethea #4 | Alan Moore | 1999 | Çizgi roman
+- Rose | Jeff Smith · Bone öncesi | 2000 | Çizgi roman
+- Yedi Vahşi Kız Kardeş | Seven Wild Sisters · Charles de Lint | 2002 | Kitap illüstrasyonu
+- The Green Man | Terri Windling ve Ellen Datlow antolojisi | 2002 | Kitap illüstrasyonu
+- Kediler Çemberi | A Circle of Cats · Charles de Lint | 2003 | Kitap illüstrasyonu
+- Ballads | Tor Books · genişletilmiş baskı | 2004 | Kitap
+- The Faery Reel | Terri Windling ve Ellen Datlow antolojisi | 2004 | Kitap illüstrasyonu
+- Medicine Road | Charles de Lint | 2005 | Kitap illüstrasyonu
+- Fables: 1001 Nights of Snowfall | Bill Willingham | 2006 | Çizgi roman
+- Blueberry Girl | Neil Gaiman'ın şiirinden | 2009 | Resimli kitap
+- Yerdeniz Kitapları | The Books of Earthsea · Ursula K. Le Guin, resimli tam baskı | 2018 | Kitap illüstrasyonu
+- Honeycomb | Joanne Harris | 2021 | Kitap illüstrasyonu
+@ amano | Yoshitaka Amano | 1952– | Japonya | telif
+# Suluboya · Fantastik · Karakter tasarımı
+> Final Fantasy serisinin logo ve karakter tasarımlarıyla dünyaca tanınan Japon sanatçı. Ukiyo-e'nin ince çizgisini Art Nouveau'nun süslemeciliği ve Batı fantastiğiyle birleştiren akışkan suluboyaları, anime tasarımcılığından çağdaş sanata uzanan bir kariyerin imzasıdır.
+- Tatsunoko Production | Karakter tasarımcısı olarak başlangıç | 1967–82 | Animasyon tasarımı
+- Gatchaman | Bilim Ninja Takımı · karakter tasarımı | 1972 | Animasyon tasarımı
+- Casshan | Karakter tasarımı | 1973 | Animasyon tasarımı
+- Polimar | Hurricane Polymar · karakter tasarımı | 1974 | Animasyon tasarımı
+- Guin Saga kapakları | Kaoru Kurimoto'nun fantastik romanları | 1979– | Kitap kapağı
+- Vampir Avcısı D (romanlar) | Hideyuki Kikuchi · kapak ve illüstrasyonlar | 1983– | Kitap illüstrasyonu
+- Melek Yumurtası | Angel's Egg · Mamoru Oshii ile | 1985 | Animasyon tasarımı
+- Vampir Avcısı D (film) | Karakter tasarımı | 1985 | Animasyon tasarımı
+- Arslan Senki kapakları | Yoshiki Tanaka'nın romanları | 1986– | Kitap kapağı
+- Final Fantasy | Logo ve karakter tasarımı | 1987 | Oyun tasarımı
+- Final Fantasy II | Logo ve karakter tasarımı | 1988 | Oyun tasarımı
+- Hiten | Sanat kitabı | 1989 | Sanat kitabı
+- Final Fantasy III | Logo ve karakter tasarımı | 1990 | Oyun tasarımı
+- Final Fantasy IV | Logo ve karakter tasarımı | 1991 | Oyun tasarımı
+- Final Fantasy V | Logo ve karakter tasarımı | 1992 | Oyun tasarımı
+- Final Fantasy VI | Logo ve karakter tasarımı | 1994 | Oyun tasarımı
+- Final Fantasy VII logosu | Meteor logosu | 1997 | Logo
+- Sandman: Rüya Avcıları | The Dream Hunters · Neil Gaiman | 1999 | Resimli roman
+- Vampir Avcısı D: Kana Susamışlık | Bloodlust · tasarımlar | 2000 | Animasyon tasarımı
+- Final Fantasy IX | Konsept resimleri | 2000 | Oyun tasarımı
+- Elektra ve Wolverine: Kurtarıcı | Greg Rucka · Marvel | 2002 | Resimli roman
+- Final Fantasy logoları | Serinin tüm logoları | 1987– | Logo
+- Final Fantasy XIV | Logo ve ana görsel | 2010 | Oyun tasarımı
+- Final Fantasy XV | Logo ve ana görsel | 2016 | Oyun tasarımı
+- Final Fantasy XVI | Logo | 2023 | Logo
+@ john-howe | John Howe | 1957– | Kanada / İsviçre | telif
+# Suluboya · Ortaçağ · Ejderha ve şövalye
+> Vancouver doğumlu, İsviçre'de yaşayan illüstratör; Tolkien'in Orta Dünya'sının en tanınmış iki ressamından biridir. Alan Lee ile birlikte Peter Jackson'ın Yüzüklerin Efendisi ve Hobbit filmlerinin baş kavramsal tasarımcısı oldu, Amazon'un The Rings of Power dizisinde de çalıştı.
+- Balıkçı ile Karısı | The Fisherman & His Wife · Grimm | 1983 | Resimli kitap
+- The Enchanted World: Night Creatures | Time Life | 1985 | Kitap illüstrasyonu
+- The Enchanted World: Dwarfs | Time Life | 1985 | Kitap illüstrasyonu
+- Rip Van Winkle | Yeniden anlatım | 1988 | Resimli kitap
+- Jack ve Fasulye Sırığı | Jack and the Beanstalk · yeniden anlatım | 1989 | Resimli kitap
+- Knights | Üç boyutlu keşif kitabı | 1995 | Kitap
+- Tolkien haritaları | Yüzüklerin Efendisi, Hobbit ve Silmarillion haritaları | 1996 | Harita
+- Aslanlı Şövalye | The Knight With the Lion · Yvain | 1996 | Resimli kitap
+- A Diversity of Dragons | Anne McCaffrey ve Richard Woods ile | 1997 | Kitap
+- Images of Middle-earth | Orta Dünya resimleri | 2000 | Kitap
+- Yüzüklerin Efendisi (film üçlemesi) | Peter Jackson · baş kavramsal tasarımcı | 2001 | Film tasarımı
+- The Maps of Tolkien's Middle-earth | Brian Sibley | 2003 | Kitap illüstrasyonu
+- Kralların Çarpışması | A Clash of Kings · George R. R. Martin, sınırlı baskı | 2005 | Kitap illüstrasyonu
+- The King of Winter's Daughter | Resimli kitap | 2005 | Resimli kitap
+- Fantasy Encyclopedia | Kingfisher | 2005 | Kitap illüstrasyonu
+- Wizardology | The Book of the Secrets of Merlin · Candlewick | 2005 | Kitap illüstrasyonu
+- Narnia Günlükleri: Aslan, Cadı ve Dolap | Film için tasarımlar | 2005 | Film tasarımı
+- Myth and Magic | The Art of John Howe | 2006 | Kitap
+- Fantasy Art Workshop | Teknik kitabı | 2007 | Kitap
+- Forging Dragons | Ejderha çizim teknikleri | 2008 | Kitap
+- Lost Worlds | Kingfisher | 2009 | Kitap illüstrasyonu
+- Fantasy Drawing Workshop | Teknik kitabı | 2009 | Kitap
+- Hobbit (film üçlemesi) | Peter Jackson · kavramsal tasarım | 2012 | Film tasarımı
+- The Rings of Power | Amazon dizisi · kavramsal tasarım | 2022 | Televizyon
+- Cathedral | Caurette Editions | 2024 | Kitap
+@ brom | Gerald Brom | 1965– | ABD | telif
+# Yağlıboya · Gotik fantastik · Karanlık masal
+> Kemikli figürleri, solgun tenleri ve karanlık atmosferiyle tanınan Amerikalı ressam ve romancı; TSR'nin Dark Sun dünyasından Diablo ve World of Warcraft'a uzanan oyun görselleriyle fantastik estetiği biçimlendirdi. The Child Thief ve Krampus gibi kendi resimlediği romanlarla yazarlığa da geçti.
+- Dark Sun: Shattered Lands | TSR · oyun görselleri | 1993 | Oyun
+- Dark Sun: Wake of the Ravager | Oyun görselleri | 1994 | Oyun
+- Doom II: Hell on Earth | Oyun görselleri | 1994 | Oyun
+- Heretic | Oyun görselleri | 1994 | Oyun
+- Heretic II | Oyun görselleri | 1998 | Oyun
+- Galaxy Quest | Film tasarımı | 1999 | Film tasarımı
+- Hayalet Süvari | Sleepy Hollow · Tim Burton, afiş çizimi | 1999 | Film afişi
+- Darkwerks | The Art of Brom · sanat kitabı | 2000 | Kitap
+- Diablo II | Oyun görselleri | 2000 | Oyun
+- Bless the Child | Film tasarımı | 2000 | Film tasarımı
+- Ghosts of Mars | Film tasarımı | 2001 | Film tasarımı
+- Scooby-Doo | Film tasarımı | 2002 | Film tasarımı
+- War of the Spider Queen | Kitap kapakları | 2003 | Kitap kapağı
+- Van Helsing | Film tasarımı | 2004 | Film tasarımı
+- World of Warcraft | Oyun görselleri | 2004 | Oyun
+- The Plucker | Resimli roman | 2005 | Roman
+- The Devil's Rose | Resimli roman | 2007 | Roman
+- Çocuk Hırsızı | The Child Thief · Peter Pan'ın karanlık yorumu | 2009 | Roman
+- Krampus the Yule Lord | Resimli roman | 2012 | Roman
+- Diablo III | Oyun görselleri | 2012 | Oyun
+- Hearthstone | Kart çizimleri | 2014 | Oyun
+- Lost Gods | Resimli roman | 2016 | Roman
+- Slewfoot | Resimli roman | 2021 | Roman
+- Diablo IV | Oyun görselleri | 2023 | Oyun
+- Evil in Me | Resimli roman | 2024 | Roman
+@ tony-diterlizzi | Tony DiTerlizzi | 1969– | ABD | telif
+# Kurşunkalem · Suluboya · Doğa tarihi fantezisi
+> Dungeons & Dragons'ın Planescape dünyasını resimleyerek başlayıp Holly Black'le birlikte The Spiderwick Chronicles'ı yaratan Amerikalı yazar-çizer. Arthur Rackham ve doğa tarihi gravürlerinden beslenen çizimleri The Spider and the Fly ile Caldecott Onur ödülü aldı; WondLa üçlemesi Apple TV+ dizisine dönüştü.
+- Monstrous Manual | TSR · Dungeons & Dragons | 1993 | Oyun
+- Planescape Campaign Setting | TSR · Dungeons & Dragons | 1994 | Oyun
+- Giant Bones | Peter S. Beagle | 1997 | Kitap kapağı
+- Dinosaur Summer | Greg Bear | 1998 | Kitap illüstrasyonu
+- Jimmy Zangwow'un Uzay Turtası Macerası | Jimmy Zangwow's Out-of-This-World Moon-Pie Adventure | 2000 | Resimli kitap
+- Ribbiting Tales | Antoloji | 2000 | Kitap illüstrasyonu
+- Ted | Resimli kitap | 2001 | Resimli kitap
+- Alien & Possum | Tony Johnston | 2001 | Kitap illüstrasyonu
+- Örümcek ve Sinek | The Spider and the Fly · Mary Howitt, Caldecott Onur | 2002 | Kitap illüstrasyonu
+- Dragonflight | Anne McCaffrey · resimli baskı | 2002 | Kitap illüstrasyonu
+- Spiderwick Günceleri | The Spiderwick Chronicles · Holly Black ile | 2003 | Roman
+- Arthur Spiderwick's Field Guide | Holly Black ile | 2005 | Kitap
+- Kızıl Peter Pan | Peter Pan in Scarlet · Geraldine McCaughrean | 2006 | Kitap illüstrasyonu
+- G Is for One Gzonk! | Alfabe kitabı | 2006 | Resimli kitap
+- Beyond the Spiderwick Chronicles | Holly Black ile | 2007 | Roman
+- Spiderwick Günceleri (film) | Yapımcı | 2008 | Film
+- Kenny ve Ejderha | Kenny & the Dragon | 2008 | Roman
+- WondLa'yı Aramak | The Search for WondLa | 2010 | Roman
+- WondLa'nın Kahramanı | A Hero for WondLa | 2012 | Roman
+- WondLa Savaşı | The Battle for WondLa | 2014 | Roman
+- Star Wars: The Adventures of Luke Skywalker, Jedi Knight | Ralph McQuarrie çizimleriyle | 2014 | Resimli kitap
+- Realms | The Roleplaying Art of Tony DiTerlizzi | 2015 | Kitap
+- Kırık Süs | The Broken Ornament | 2018 | Resimli kitap
+- The Spiderwick Chronicles (dizi) | Televizyon dizisi | 2024 | Televizyon
+- WondLa (dizi) | Apple TV+ animasyon dizisi | 2024 | Animasyon
+@ tetsuya-nomura | Tetsuya Nomura | 1970– | Japonya | telif
+# Karakter tasarımı · Kemerli kostüm · Oyun estetiği
+> Final Fantasy VII'den başlayarak Square Enix'in en tanınmış karakterlerini tasarlayan Japon illüstratör ve yönetmen. Disney karakterleriyle Final Fantasy dünyasını buluşturan Kingdom Hearts serisinin yaratıcısıdır; kemerli, fermuarlı kostümleri ve sivri saçlı kahramanları bir kuşağın oyun estetiğini belirledi.
+- Final Fantasy V | Savaş grafikleri ve canavar tasarımları | 1992 | Oyun
+- Final Fantasy VI | Canavar ve karakter tasarımı | 1994 | Oyun
+- Final Fantasy VII | Karakter tasarımı · Cloud ve Sephiroth | 1997 | Oyun
+- Parasite Eve | Karakter tasarımı | 1998 | Oyun
+- Final Fantasy VIII | Karakter tasarımı | 1999 | Oyun
+- The Bouncer | Karakter tasarımı | 2000 | Oyun
+- Final Fantasy X | Karakter tasarımı | 2001 | Oyun
+- Kingdom Hearts | Yönetmen ve karakter tasarımı | 2002 | Oyun
+- Kingdom Hearts: Chain of Memories | Yönetmen | 2004 | Oyun
+- Final Fantasy VII: Advent Children | Animasyon filmi · yönetmen | 2005 | Animasyon
+- Last Order: Final Fantasy VII | Animasyon · denetmen | 2005 | Animasyon
+- Kingdom Hearts II | Yönetmen ve karakter tasarımı | 2005 | Oyun
+- The World Ends with You | Karakter tasarımı | 2007 | Oyun
+- Dissidia Final Fantasy | Karakter tasarımı | 2008 | Oyun
+- Final Fantasy XIII | Karakter tasarımı | 2009 | Oyun
+- Kingdom Hearts 358/2 Days | Yönetmen | 2009 | Oyun
+- Kingdom Hearts Birth by Sleep | Yönetmen | 2010 | Oyun
+- Kingdom Hearts 3D: Dream Drop Distance | Yönetmen | 2012 | Oyun
+- Final Fantasy XV | Özgün konsept ve karakter tasarımı | 2016 | Oyun
+- Xenoblade Chronicles 2 | Karakter tasarımı | 2017 | Oyun
+- Kingdom Hearts III | Yönetmen ve karakter tasarımı | 2019 | Oyun
+- Final Fantasy VII Remake | Yönetmen | 2020 | Oyun
+- Kingdom Hearts: Melody of Memory | Yönetmen | 2020 | Oyun
+- Crisis Core: Final Fantasy VII Reunion | Yaratıcı yönetmen | 2022 | Oyun
+- Final Fantasy VII Rebirth | Yaratıcı yönetmen | 2024 | Oyun

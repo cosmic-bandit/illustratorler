@@ -1,0 +1,281 @@
+= resimli-kitap
+@ quentin-blake | Quentin Blake | 1932– | İngiltere | telif
+# Mürekkep · Suluboya · Doğaçlama çizgi
+> Roald Dahl'ın kitaplarıyla özdeşleşmiş, enerjik ve doğaçlama hissi veren mürekkep–suluboya çizgisinin sahibi. İngiltere'nin ilk Children's Laureate'i (1999) oldu, 2002'de Hans Christian Andersen Ödülü'nü aldı ve 2013'te şövalye unvanıyla onurlandırıldı.
+- Patrick | Kendi yazıp çizdiği ilk resimli kitap | 1968 | Resimli kitap
+- Kaptan Najork'u Nasıl Yendi | How Tom Beat Captain Najork and His Hired Sportsmen · Russell Hoban | 1974 | Kitap illüstrasyonu
+- Kocaman Timsah | The Enormous Crocodile · Roald Dahl | 1978 | Kitap illüstrasyonu
+- İğrençler | The Twits · Roald Dahl | 1980 | Kitap illüstrasyonu
+- Mister Magnolia | Kate Greenaway Madalyası | 1980 | Resimli kitap
+- George'un Muhteşem İlacı | George's Marvellous Medicine · Roald Dahl | 1981 | Kitap illüstrasyonu
+- Koca Sevimli Dev | The BFG · Roald Dahl | 1982 | Kitap illüstrasyonu
+- Ters Masallar | Revolting Rhymes · Roald Dahl | 1982 | Kitap illüstrasyonu
+- Cadılar | The Witches · Roald Dahl | 1983 | Kitap illüstrasyonu
+- Zürafa, Pelikan ve Ben | The Giraffe and the Pelly and Me · Roald Dahl | 1985 | Kitap illüstrasyonu
+- Bayan Armitage Tekerlekli | Mrs Armitage on Wheels | 1987 | Resimli kitap
+- Matilda | Roald Dahl | 1988 | Kitap illüstrasyonu
+- Quentin Blake'in ABC'si | Quentin Blake's ABC | 1989 | Resimli kitap
+- Esio Trot | Roald Dahl | 1990 | Kitap illüstrasyonu
+- Hep Birlikte | All Join In | 1990 | Resimli kitap
+- Kakadular | Cockatoos | 1992 | Resimli kitap
+- Simpkin | Tekerlemeli resimli kitap | 1993 | Resimli kitap
+- Palyaço | Clown · metinsiz resimli kitap | 1995 | Resimli kitap
+- Yeşil Gemi | The Green Ship | 1998 | Resimli kitap
+- Zagazoo | Büyüyen bebeğin hikâyesi | 1998 | Resimli kitap
+- Sevgicikler | Loveykins | 2002 | Resimli kitap
+- Gökyüzünde Bir Yelkenli | A Sailing Boat in the Sky | 2002 | Resimli kitap
+- Hüzün Kitabı | Michael Rosen's Sad Book · Michael Rosen | 2004 | Kitap illüstrasyonu
+- Elbiseli Çocuk | The Boy in the Dress · David Walliams | 2008 | Kitap illüstrasyonu
+- Candide | Voltaire · The Folio Society | 2011 | Kitap illüstrasyonu
+@ shaun-tan | Shaun Tan | 1974– | Avustralya | telif
+# Akrilik · Karakalem · Gerçeküstü
+> Göç, yabancılık ve aidiyet gibi temaları sessiz, gerçeküstü görsellerle anlatan Avustralyalı sanatçı. Hiç metin içermeyen grafik romanı The Arrival bir başyapıt kabul edilir; The Lost Thing'in kısa film uyarlamasıyla 2011'de Oscar kazandı, aynı yıl Astrid Lindgren Anma Ödülü'nü aldı.
+- The Pipe | James Moloney | 1996 | Kitap illüstrasyonu
+- The Stray Cat | Steven Paulsen | 1996 | Kitap illüstrasyonu
+- The Doll | Janine Burke | 1997 | Kitap illüstrasyonu
+- The Half Dead | Garry Disher | 1997 | Kitap illüstrasyonu
+- The Viewer | Gary Crew | 1997 | Kitap illüstrasyonu
+- Oyun Alanı | The Playground | 1997 | Resimli kitap
+- Tavşanlar | The Rabbits · John Marsden · sömürgecilik alegorisi | 1998 | Kitap illüstrasyonu
+- The Hicksville Horror | Nette Hilton | 1999 | Kitap illüstrasyonu
+- The Puppet | Ian Bone | 1999 | Kitap illüstrasyonu
+- Memorial | Gary Crew | 1999 | Kitap illüstrasyonu
+- Kayıp Şey | The Lost Thing | 2000 | Resimli kitap
+- Kırmızı Ağaç | The Red Tree · depresyon ve umut | 2001 | Resimli kitap
+- Varış | The Arrival · metinsiz göç anlatısı | 2006 | Grafik roman
+- Kenar Mahalle Öyküleri | Tales from Outer Suburbia | 2008 | Resimli kitap
+- Pretty Monsters | Kelly Link · öykü kitabı çizimleri | 2008 | Kitap illüstrasyonu
+- Kayıp Şey (film) | The Lost Thing · kısa animasyon, Oscar | 2010 | Animasyon
+- Kuş Kral | The Bird King and Other Sketches · eskiz kitabı | 2011 | Kitap
+- The Oopsatoreum | Henry A. Mintox'un icatları · Powerhouse Müzesi | 2012 | Kitap / sergi
+- Yaz Kuralları | Rules of Summer | 2013 | Resimli kitap
+- Tavşanlar (opera) | The Rabbits · Kate Miller-Heidke | 2015 | Sahne
+- Şarkı Söyleyen Kemikler | The Singing Bones · Grimm masallarından heykelcikler | 2016 | Heykel / kitap
+- Ağustosböceği | Cicada | 2018 | Resimli kitap
+- İç Şehir Öyküleri | Tales from the Inner City | 2018 | Resimli kitap
+- Dog | Tek başına basılan kısa öykü | 2020 | Resimli kitap
+- Creature | Resimler, çizimler ve düşünceler | 2022 | Kitap
+@ jeffers | Oliver Jeffers | 1977– | Kuzey İrlanda / ABD | telif
+# Karma teknik · El yazısı · Resimli kitap
+> Belfast'ta büyüyüp New York'ta yaşayan sanatçı; el yazısı metinleri, minimal kompozisyonları ve dokunaklı mizahıyla resimli kitapları kuşaklar arası okumalara dönüştürdü. Penguenli Kayıp ve Bulundu'dan Gezegenimizde Yaşamak İçin Notlar'a uzanan kitapları, aynı zamanda galerilerde sergilenen resimleriyle iç içe ilerler.
+- Bir Yıldız Nasıl Yakalanır | How to Catch a Star · ilk kitabı | 2004 | Resimli kitap
+- Kayıp ve Bulundu | Lost and Found · penguen | 2005 | Resimli kitap
+- İnanılmaz Kitap Yiyen Çocuk | The Incredible Book Eating Boy | 2006 | Resimli kitap
+- Eve Dönüş Yolu | The Way Back Home | 2007 | Resimli kitap
+- Daldırılmış Resimler | Dipped Paintings · galeri serisi | 2007– | Yağlıboya
+- Büyük Kâğıt Soygunu | The Great Paper Caper | 2008 | Resimli kitap
+- Kayıp ve Bulundu (film) | Animasyon uyarlaması | 2008 | Animasyon
+- Kalp ve Şişe | The Heart and the Bottle | 2010 | Resimli kitap
+- Yukarı ve Aşağı | Up and Down | 2010 | Resimli kitap
+- Sıkışmış | Stuck | 2011 | Resimli kitap
+- Hueyler: Yeni Kazak | The Hueys in The New Jumper | 2012 | Resimli kitap
+- Bu Geyik Bana Ait | This Moose Belongs to Me | 2012 | Resimli kitap
+- Boyalar Grevde | The Day the Crayons Quit · Drew Daywalt | 2013 | Kitap illüstrasyonu
+- Hueyler: Ben Değildim | It Wasn't Me | 2013 | Resimli kitap
+- Sıradan Aşk | Ordinary Love · U2 için animasyonlu klip | 2013 | Video
+- Bir Zamanlar Bir Alfabe | Once Upon an Alphabet | 2014 | Resimli kitap
+- Boyalar Eve Döndü | The Day the Crayons Came Home | 2015 | Kitap illüstrasyonu
+- Kitapların Çocuğu | A Child of Books · Sam Winston ile | 2016 | Resimli kitap
+- Gezegenimizde Yaşamak İçin Notlar | Here We Are: Notes for Living on Planet Earth | 2017 | Resimli kitap
+- Fausto'nun Kaderi | The Fate of Fausto | 2019 | Resimli kitap
+- Ne İnşa Edeceğiz | What We'll Build | 2020 | Resimli kitap
+- Gezegenimizde Yaşamak İçin Notlar (film) | Apple TV+ animasyonu | 2020 | Animasyon
+- Bu Evde Bir Hayalet Var | There's a Ghost in This House | 2021 | Resimli kitap
+- Uzaydaki Yerimiz | Our Place in Space · Güneş Sistemi heykel patikası | 2022 | Yerleştirme
+- Bu Arada Dünya'da | Meanwhile Back on Earth | 2022 | Resimli kitap
+@ jon-klassen | Jon Klassen | 1981– | Kanada / ABD | telif
+# Dijital doku · Minimal · Kara mizah
+> Animasyondan gelen Kanadalı yazar-çizer; sınırlı paleti, kıpırtısız karakterleri ve gözlerle anlatılan kara mizahıyla resimli kitaba yeni bir sessizlik getirdi. This Is Not My Hat ile Caldecott Madalyası'nı, Mac Barnett'le yaptığı Extra Yarn ve Sam and Dave Dig a Hole ile iki Caldecott Onur ödülünü kazandı.
+- Kung Fu Panda | DreamWorks · animasyon ekibinde | 2008 | Animasyon
+- Coraline | Henry Selick · animasyon ekibinde | 2009 | Animasyon
+- I'll Go Crazy If I Don't Go Crazy Tonight | U2 · müzik videosu sanat yönetimi | 2009 | Müzik videosu
+- Kedilerin Gece Gezmesi | Cats' Night Out · Caroline Stutson | 2010 | Kitap illüstrasyonu
+- Ashton Place'in Islah Edilemez Çocukları | The Incorrigible Children of Ashton Place · Maryrose Wood | 2010 | Kitap illüstrasyonu
+- Şapkamı Geri İstiyorum | I Want My Hat Back | 2011 | Resimli kitap
+- Vanished | Sheela Chari | 2011 | Kitap kapağı
+- Bu Benim Şapkam Değil | This Is Not My Hat · Caldecott Madalyası | 2012 | Resimli kitap
+- Sihirli Yün | Extra Yarn · Mac Barnett | 2012 | Kitap illüstrasyonu
+- Ağaçların Tuttuğu Ev | House Held Up By Trees · Ted Kooser | 2012 | Kitap illüstrasyonu
+- Karanlık | The Dark · Lemony Snicket | 2013 | Kitap illüstrasyonu
+- The Watch That Ends the Night | Allan Wolf | 2013 | Kitap kapağı
+- Sam ve Dave Çukur Kazıyor | Sam and Dave Dig a Hole · Mac Barnett | 2014 | Kitap illüstrasyonu
+- Cadının Oğlu | The Witch's Boy · Kelly Barnhill | 2014 | Kitap kapağı
+- Yuva | The Nest · Kenneth Oppel | 2015 | Kitap illüstrasyonu
+- Bir Şapka Bulduk | We Found a Hat | 2016 | Resimli kitap
+- Pax | Sara Pennypacker | 2016 | Kitap illüstrasyonu
+- Üçgen | Triangle · Mac Barnett | 2017 | Kitap illüstrasyonu
+- Kurt, Ördek ve Fare | The Wolf, the Duck, and the Mouse · Mac Barnett | 2017 | Kitap illüstrasyonu
+- Kare | Square · Mac Barnett | 2018 | Kitap illüstrasyonu
+- Daire | Circle · Mac Barnett | 2019 | Kitap illüstrasyonu
+- Kokarca ve Porsuk | Skunk and Badger · Amy Timberlake | 2020 | Kitap illüstrasyonu
+- Gökten Düşen Kaya | The Rock from the Sky | 2021 | Resimli kitap
+- Üç Teke Gruff | The Three Billy Goats Gruff · Mac Barnett | 2022 | Kitap illüstrasyonu
+- Kafatası | The Skull · Tirol halk masalı | 2023 | Resimli kitap
+@ willems | Mo Willems | 1968– | ABD | telif
+# Çizgi film çizgisi · Diyalog · Resimli kitap
+> Susam Sokağı yazarlığından resimli kitaba geçen Willems, az çizgiyle çok şey anlatan karakterleriyle okul öncesi kitaplarını yeniden tanımladı: otobüs sürmek isteyen inatçı Güvercin, Fil ile Domuzcuk ve Knuffle Bunny. Konuşma balonlarıyla ilerleyen sayfaları çocukları sesli okumaya davet eder.
+- Susam Sokağı yazarlığı | Altı Emmy ödülü | 1993–2002 | Televizyon
+- Büyük Şehirde Koyun | Sheep in the Big City · TV dizisi | 2000 | Animasyon
+- Güvercine Otobüsü Kullandırma! | Don't Let the Pigeon Drive the Bus! | 2003 | Resimli kitap
+- Güvercin Bir Sosisli Buldu! | The Pigeon Finds a Hot Dog! | 2004 | Resimli kitap
+- Knuffle Bunny | Kayıp tavşan | 2004 | Resimli kitap
+- Korkunç Canavar Leonardo | Leonardo, the Terrible Monster | 2005 | Resimli kitap
+- Güvercin Geç Yatmasın! | Don't Let the Pigeon Stay Up Late! | 2006 | Resimli kitap
+- Edwina | Yok olduğunu bilmeyen dinozor | 2006 | Resimli kitap
+- Knuffle Bunny de | Knuffle Bunny Too | 2007 | Resimli kitap
+- Fil ile Domuzcuk serisi | Elephant & Piggie · erken okuma | 2007–16 | Erken okuma
+- Bugün Uçacağım! | Today I Will Fly! | 2007 | Erken okuma
+- Kafanda Bir Kuş Var! | There Is a Bird on Your Head! | 2007 | Erken okuma
+- Güvercin Köpek İstiyor! | The Pigeon Wants a Puppy! | 2008 | Resimli kitap
+- Dışarıda Oynamaya Hazır mısın? | Are You Ready to Play Outside? | 2008 | Erken okuma
+- Çıplak Köstebek Faresi Giyiniyor | Naked Mole Rat Gets Dressed | 2009 | Resimli kitap
+- Özgür Knuffle Bunny | Knuffle Bunny Free | 2010 | Resimli kitap
+- Kedi Kedi serisi | Cat the Cat | 2010 | Erken okuma
+- Bir Kitabın İçindeyiz! | We Are in a Book! | 2010 | Erken okuma
+- Goldilocks ve Üç Dinozor | Goldilocks and the Three Dinosaurs | 2012 | Resimli kitap
+- Bu İyi Bir Fikir Değil! | That Is Not a Good Idea! | 2013 | Resimli kitap
+- Beklemek Kolay Değil! | Waiting Is Not Easy! | 2014 | Erken okuma
+- Teşekkür Kitabı | The Thank You Book · serinin son kitabı | 2016 | Erken okuma
+- Nanette'in Bageti | Nanette's Baguette | 2016 | Resimli kitap
+- Güvercin Okula Gitmek ZORUNDA! | The Pigeon HAS to Go to School! | 2019 | Resimli kitap
+- Kennedy Center sanatçı rezidansı | Eğitim sanatçısı | 2019–22 | Rezidans
+@ scheffler | Axel Scheffler | 1957– | Almanya / İngiltere | telif
+# Suluboya · Renkli kalem · Resimli kitap
+> Almanya doğumlu, Londra'da yaşayan illüstratör; yazar Julia Donaldson'la birlikte Gruffalo'yu yaratarak dünyanın en sevilen resimli kitap ikililerinden birini oluşturdu. Sıcak renkleri, iri gözlü hayvanları ve kalabalık ama okunaklı sayfaları kitaplarının yüzlerce dile çevrilmesini sağladı.
+- Sıkış Tıkış | A Squash and a Squeeze · Julia Donaldson | 1993 | Kitap illüstrasyonu
+- Gruffalo | The Gruffalo · Julia Donaldson | 1999 | Kitap illüstrasyonu
+- Maymun Bulmacası | Monkey Puzzle | 2000 | Kitap illüstrasyonu
+- Süpürgede Yer Var | Room on the Broom | 2001 | Kitap illüstrasyonu
+- Kasabanın En Akıllı Devi | The Smartest Giant in Town | 2002 | Kitap illüstrasyonu
+- Salyangoz ve Balina | The Snail and the Whale | 2003 | Kitap illüstrasyonu
+- Gruffalo'nun Çocuğu | The Gruffalo's Child | 2004 | Kitap illüstrasyonu
+- Charlie Cook'un En Sevdiği Kitap | Charlie Cook's Favourite Book | 2005 | Kitap illüstrasyonu
+- Tiddler | Masalcı küçük balık | 2007 | Kitap illüstrasyonu
+- Çubuk Adam | Stick Man | 2008 | Kitap illüstrasyonu
+- Gruffalo (film) | Kitaptan animasyon | 2009 | Animasyon
+- Pip ve Posy | Kendi yazdığı karton kitap serisi | 2009– | Resimli kitap
+- Tabby McTat | Sokak kedisi | 2009 | Kitap illüstrasyonu
+- Zog | Beceriksiz ejderha | 2010 | Kitap illüstrasyonu
+- Otoyol Faresi | The Highway Rat | 2011 | Kitap illüstrasyonu
+- Süper Solucan | Superworm | 2012 | Kitap illüstrasyonu
+- Korkulukların Düğünü | The Scarecrows' Wedding | 2014 | Kitap illüstrasyonu
+- Zog ve Uçan Doktorlar | Zog and the Flying Doctors | 2016 | Kitap illüstrasyonu
+- Çirkin Beşli | The Ugly Five | 2018 | Kitap illüstrasyonu
+- Zog (film) | Animasyon uyarlaması | 2018 | Animasyon
+- Smed'ler ve Smoo'lar | The Smeds and the Smoos | 2019 | Kitap illüstrasyonu
+- Süpürgede Yer Var (film) | Animasyon uyarlaması | 2012 | Animasyon
+- Stick Man (film) | Animasyon uyarlaması | 2015 | Animasyon
+- Dilek Dileyen Balık | The Fish Who Could Wish · John Bush · ilk kitabı | 1991 | Kitap illüstrasyonu
+- Koronavirüs kitabı | Coronavirus: A Book for Children · ücretsiz bilgilendirici kitap | 2020 | Kitap illüstrasyonu
+@ anthony-browne | Anthony Browne | 1946– | İngiltere | telif
+# Gerçeküstücülük · Suluboya · Resimli kitap
+> Gerçeküstü ayrıntılarla dolu, Magritte ve Dalí göndermeli resimli kitaplarıyla tanınan İngiliz yazar-çizer. Goriller ve maymunlar eserlerinde tekrar eden bir motiftir; Goril ve Parktaki Sesler gibi kitaplarla iki kez Kate Greenaway Madalyası kazandı, 2000'de Hans Christian Andersen Ödülü'nü aldı.
+- Sihirli Aynanın İçinden | Through the Magic Mirror · ilk kitabı | 1976 | Resimli kitap
+- Parkta Bir Yürüyüş | A Walk in the Park | 1977 | Resimli kitap
+- Ayı Avı | Bear Hunt | 1979 | Resimli kitap
+- Hansel ile Gretel | Grimm | 1981 | Resimli kitap
+- Goril | Gorilla · Kate Greenaway Madalyası | 1983 | Resimli kitap
+- Korkak Willy | Willy the Wimp | 1984 | Resimli kitap
+- Şampiyon Willy | Willy the Champ | 1985 | Resimli kitap
+- Domuz Kitabı | Piggybook | 1986 | Resimli kitap
+- Alice Harikalar Diyarında | Alice's Adventures in Wonderland | 1988 | Kitap illüstrasyonu
+- Tünel | The Tunnel | 1989 | Resimli kitap
+- Değişimler | Changes | 1990 | Resimli kitap
+- Willy ve Hugh | Willy and Hugh | 1991 | Resimli kitap
+- Hayvanat Bahçesi | Zoo · Kate Greenaway Madalyası | 1992 | Resimli kitap
+- King Kong | Uyarlama | 1994 | Resimli kitap
+- Hayalperest Willy | Willy the Dreamer | 1997 | Resimli kitap
+- Parktaki Sesler | Voices in the Park | 1998 | Resimli kitap
+- Hans Christian Andersen Ödülü | İllüstrasyon dalında | 2000 | Ödül
+- Babam | My Dad | 2000 | Resimli kitap
+- Willy'nin Resimleri | Willy's Pictures · ünlü tablolara göndermeler | 2000 | Resimli kitap
+- Şekil Oyunu | The Shape Game | 2003 | Resimli kitap
+- Ormanın İçine | Into the Forest | 2004 | Resimli kitap
+- Annem | My Mum | 2005 | Resimli kitap
+- Küçük Güzel | Little Beauty | 2008 | Resimli kitap
+- İngiltere Çocuk Edebiyatı Laureate'i | Children's Laureate | 2009–11 | Unvan
+- Sen ve Ben | Me and You | 2010 | Resimli kitap
+@ van-allsburg | Chris Van Allsburg | 1949– | ABD | telif
+# Karakalem · Pastel · Gerçeküstü
+> Karakalemle oluşturduğu ışık-gölge oyunlu, sinematik ve gizemli sahneleriyle tanınan Amerikalı yazar-çizer; Jumanji ve Kutup Ekspresi ile iki kez Caldecott Madalyası kazandı. Harris Burdick'in Gizemleri'ndeki tek cümlelik açıklamalı resimler, kuşaklar boyunca yazarlara öykü çıkış noktası oldu.
+- Abdul Gasazi'nin Bahçesi | The Garden of Abdul Gasazi | 1979 | Resimli kitap
+- Jumanji | Caldecott Madalyası | 1981 | Resimli kitap
+- Ben'in Rüyası | Ben's Dream | 1982 | Resimli kitap
+- Zephyr'in Enkazı | The Wreck of the Zephyr | 1983 | Resimli kitap
+- Harris Burdick'in Gizemleri | The Mysteries of Harris Burdick | 1984 | Resimli kitap
+- Kutup Ekspresi | The Polar Express · Caldecott Madalyası | 1985 | Resimli kitap
+- Yabancı | The Stranger | 1986 | Resimli kitap
+- Z Silindi | The Z Was Zapped | 1987 | Alfabe kitabı
+- İki Kötü Karınca | Two Bad Ants | 1988 | Resimli kitap
+- Kuğu Gölü | Swan Lake · Mark Helprin | 1989 | Kitap illüstrasyonu
+- Sadece Bir Rüya | Just a Dream | 1990 | Resimli kitap
+- Lanetli Taş | The Wretched Stone | 1991 | Resimli kitap
+- Dulun Süpürgesi | The Widow's Broom | 1992 | Resimli kitap
+- En Tatlı İncir | The Sweetest Fig | 1993 | Resimli kitap
+- Jumanji (film) | Kitaptan uyarlama | 1995 | Uyarlama
+- Riverbend'de Kötü Gün | Bad Day at Riverbend | 1995 | Resimli kitap
+- Kışın Bir Şehir | A City in Winter · Mark Helprin | 1996 | Kitap illüstrasyonu
+- Karların Peçesi | The Veil of Snows · Mark Helprin | 1997 | Kitap illüstrasyonu
+- Zathura | Jumanji'nin devamı | 2002 | Resimli kitap
+- Kutup Ekspresi (film) | Robert Zemeckis'in uyarlaması | 2004 | Uyarlama
+- Probuditi! | Hipnoz hikâyesi | 2006 | Resimli kitap
+- Harris Burdick'in Kronikleri | The Chronicles of Harris Burdick · 14 yazarın öyküleri | 2011 | Antoloji
+- Şelalelerin Kraliçesi | Queen of the Falls | 2011 | Resimli kitap
+- Sweetie Pie'ın Talihsizlikleri | The Misadventures of Sweetie Pie | 2014 | Resimli kitap
+- Harris Burdick'in Gizemleri portfolyosu | Tam boy baskılar | 1996 | Portfolyo
+@ zwerger | Lisbeth Zwerger | 1954– | Avusturya | telif
+# Suluboya · Mürekkep · Klasik masallar
+> Klasik masalları ve edebi eserleri boşluklu, hafif ve şiirsel suluboyalarla yeniden yorumlayan Avusturyalı illüstratör. Figürlerini beyaz zeminde yalnız bırakan, ironik ve zarif kompozisyonlarıyla 1990'da Hans Christian Andersen Ödülü'nü aldı.
+- Hansel ile Gretel | Grimm · ilk kitabı | 1979 | Kitap illüstrasyonu
+- Parmak Kız | Thumbeline · Andersen | 1980 | Kitap illüstrasyonu
+- Yedi Kuzgun | The Seven Ravens · Grimm | 1981 | Kitap illüstrasyonu
+- Bilgelerin Armağanı | The Gift of the Magi · O. Henry | 1982 | Kitap illüstrasyonu
+- Kırmızı Başlıklı Kız | Little Red Cap · Grimm | 1983 | Kitap illüstrasyonu
+- Bencil Dev | The Selfish Giant · Oscar Wilde | 1984 | Kitap illüstrasyonu
+- Bülbül | The Nightingale · Andersen | 1984 | Kitap illüstrasyonu
+- Küçük Häwelmann | Little Hobbin · Theodor Storm | 1985 | Kitap illüstrasyonu
+- Gül Yaprağı Efsanesi | The Legend of Rosepetal · Clemens Brentano | 1985 | Kitap illüstrasyonu
+- Canterville Hayaleti | The Canterville Ghost · Oscar Wilde | 1986 | Kitap illüstrasyonu
+- Bir Noel Şarkısı | A Christmas Carol · Charles Dickens | 1988 | Kitap illüstrasyonu
+- Ezop Masalları | Aesop's Fables | 1989 | Kitap illüstrasyonu
+- Hans Christian Andersen Ödülü | İllüstrasyon dalında | 1990 | Ödül
+- Till Eulenspiegel'in Neşeli Muziplikleri | The Merry Pranks of Till Eulenspiegel | 1990 | Kitap illüstrasyonu
+- Andersen Masalları | Hans Christian Andersen'in masalları | 1991 | Kitap illüstrasyonu
+- Tuhaf Çocuk | The Strange Child · E. T. A. Hoffmann | 1991 | Kitap illüstrasyonu
+- Çocuk Şiirleri ve Darağacı Şarkıları | Kindergedichte & Galgenlieder · Christian Morgenstern | 1992 | Kitap illüstrasyonu
+- Cüce Burun | Dwarf Nose · Wilhelm Hauff | 1994 | Kitap illüstrasyonu
+- Oz Büyücüsü | The Wizard of Oz · L. Frank Baum | 1996 | Kitap illüstrasyonu
+- Nuh'un Gemisi | Noah's Ark · Heinz Janisch | 1997 | Kitap illüstrasyonu
+- Alice Harikalar Diyarında | Alice in Wonderland | 1999 | Kitap illüstrasyonu
+- Noelden Önceki Gece | The Night Before Christmas · Clement C. Moore | 2005 | Kitap illüstrasyonu
+- Grimm Kardeşlerin Masalları | Tales from the Brothers Grimm | 2012 | Kitap illüstrasyonu
+- Kutsal Kitap'tan Hikâyeler | Stories from the Bible | 2000 | Kitap illüstrasyonu
+- Küçük Deniz Kızı | The Little Mermaid · Andersen | 2004 | Kitap illüstrasyonu
+@ benjamin-lacombe | Benjamin Lacombe | 1982– | Fransa | telif
+# Yağlıboya · Guaj · Gotik masal
+> İri gözlü, solgun kahramanları ve gotik–romantik atmosferiyle tanınan Parisli yazar-çizer. Klasik masalları ve edebiyat eserlerini —Alice'ten Madame Butterfly'a— lüks, katlanır sayfalı albümlere dönüştürerek Avrupa ve Asya'da geniş bir okur kitlesi edindi.
+- Kırmızı Başlıklı Kız | Le petit chaperon rouge | 2003 | Resimli kitap
+- Çizmeli Kedi | Le maître chat · Charles Perrault | 2003 | Kitap illüstrasyonu
+- L'esprit du temps | Cilt 1 | 2003 | Kitap illüstrasyonu
+- Cerise Griotte | İlk kendi yazdığı albüm | 2006 | Resimli kitap
+- Longs cheveux | Uzun saçlar | 2006 | Kitap illüstrasyonu
+- Kelebek Âşıklar | Les Amants Papillons | 2007 | Resimli kitap
+- Destins de chiens | Köpek kaderleri | 2007 | Kitap illüstrasyonu
+- Cadıların Büyü Kitabı | Le Grimoire des Sorcières · Sébastien Perez | 2008 | Kitap illüstrasyonu
+- L'enfant silence | Sessiz çocuk | 2008 | Kitap illüstrasyonu
+- Blues Bayou | Bataklık blues'u | 2009 | Kitap illüstrasyonu
+- La Mélodie des Tuyaux | Boruların melodisi | 2009 | Resimli kitap
+- Kırmızı Defter | Le Carnet Rouge | 2010 | Kitap illüstrasyonu
+- Pamuk Prenses | Blanche-Neige · Grimm | 2010 | Kitap illüstrasyonu
+- Ürkütücü Masallar | Les contes macabres · Edgar Allan Poe, cilt 1 | 2010 | Kitap illüstrasyonu
+- Notre-Dame'ın Kamburu | Notre-Dame de Paris · Victor Hugo | 2011 | Kitap illüstrasyonu
+- Su Perisi | Ondine | 2012 | Kitap illüstrasyonu
+- Madame Butterfly | Katlanır uzun albüm | 2013 | Resimli kitap
+- Marie-Antoinette'in Gizli Defteri | Marie-Antoinette, carnet secret d'une reine | 2014 | Kitap illüstrasyonu
+- Alice Harikalar Diyarında | Alice au pays des merveilles · Lewis Carroll | 2015 | Kitap illüstrasyonu
+- Aynanın İçinden | Alice, de l'autre côté du miroir · Lewis Carroll | 2016 | Kitap illüstrasyonu
+- Frida | Frida Kahlo üzerine · Sébastien Perez | 2016 | Kitap illüstrasyonu
+- Carmen | Prosper Mérimée | 2017 | Kitap illüstrasyonu
+- Oz Büyücüsü | Le Magicien d'Oz · L. Frank Baum | 2018 | Kitap illüstrasyonu
+- Sessiz Masallar | Contes Silencieux | 2019 | Resimli kitap
+- Bambi | Bambi : l'histoire d'une vie dans les bois · Felix Salten | 2020 | Kitap illüstrasyonu

@@ -1,0 +1,169 @@
+= afis-grafik
+@ banksy | Banksy | 1970'ler– | İngiltere | telif
+# Şablon grafiti · Siyasi hiciv · Kimliği gizli
+> Kimliğini gizli tutan Bristol çıkışlı sokak sanatçısı; şablonla çizdiği fareleri, çocukları ve polisleri savaş, gözetim ve tüketim üzerine keskin hicivlere dönüştürür. Batı Şeria duvarından Sotheby's'teki kendini parçalayan tabloya uzanan işleri, sokak grafiğini dünyanın en çok konuşulan sanat biçimlerinden biri yaptı.
+- The Mild Mild West | Bristol · polise ayı | 1997 | Duvar resmi
+- Balonlu Kız | Girl with Balloon · Londra | 2002 | Duvar resmi
+- Çiçek Atan | Flower Thrower · Beit Sahour, Batı Şeria | 2003 | Duvar resmi
+- Paraşütlü Fare | Parachuting Rat · Melbourne | 2003 | Duvar resmi
+- Banksus Militus Ratus | Doğa Tarihi Müzesi'ne gizlice asılan fare | 2004 | Müdahale
+- Flying Balloon Girl | Batı Şeria ayırma duvarı | 2005 | Duvar resmi
+- Well Hung Lover | Bristol | 2006 | Duvar resmi
+- One Nation Under CCTV | Londra | 2007 | Duvar resmi
+- Cash Machine Girl | Londra | 2007 | Duvar resmi
+- Leake Street | Lambeth tünelindeki Cans Festival | 2008 | Duvar resmi
+- Politician Rat | Bond Street, Londra | 2008 | Duvar resmi
+- Hediyelik Eşya Dükkânından Çıkış | Exit Through the Gift Shop · belgesel | 2010 | Film
+- I Remember When All This Was Trees | Detroit | 2010 | Duvar resmi
+- Slave Labour | Wood Green, Londra | 2012 | Duvar resmi
+- Better Out Than In | New York'ta bir ay boyunca her gün bir iş | 2013 | Proje
+- Spy Booth | Cheltenham | 2014 | Duvar resmi
+- Mobile Lovers | Bristol | 2014 | Duvar resmi
+- Girl with a Pierced Eardrum | Bristol · Vermeer parodisi | 2014 | Duvar resmi
+- Dismaland | Weston-super-Mare · "eğlence parkı" | 2015 | Enstalasyon
+- The Walled Off Hotel | Beytüllahim · duvara bakan otel | 2017 | Enstalasyon
+- Love Is in the Bin | Sotheby's'te kendini parçalayan Balonlu Kız | 2018 | Müdahale
+- Season's Greetings | Port Talbot, Galler | 2018 | Duvar resmi
+- Scar of Bethlehem | Beytüllahim · Noel sahnesi | 2019 | Enstalasyon
+- Aachoo!! | Bristol | 2020 | Duvar resmi
+- Valentine's Day Mascara | Margate | 2023 | Duvar resmi
+@ kaws | KAWS | 1974– | ABD | telif
+# Vinil oyuncak · Çarpı gözler · Pop heykel
+> Gerçek adı Brian Donnelly olan Amerikalı sanatçı; New York'taki reklam panolarına müdahale eden grafitiler yaparak başladı, gözleri çarpı işaretli Companion figürüyle dünya çapında tanındı. Kanye West albüm kapaklarından Uniqlo ve Nike iş birliklerine, dev şişme heykellere uzanan üretimiyle sanatla tasarım ürünü arasındaki sınırı bulanıklaştırdı.
+- Companion | Yüzünü elleriyle kapatan ilk figür | 1999 | Oyuncak
+- Bounty Hunter Companion | İlk vinil oyuncak iş birliği, Japonya | 1999 | Oyuncak
+- Kaws Exposed | Grafiti fotoğrafları kitabı | 1999 | Kitap
+- Kaws One | Tokyo'da yayımlanan kitap | 2001 | Kitap
+- Undefeated ilan panosu | Los Angeles | 2004 | Afiş
+- The KAWS Album | Simpsonlar'ın Sgt. Pepper parodisi tablosu | 2005 | Resim
+- Til the Casket Drops | Clipse · albüm kapağı | 2008 | Albüm kapağı
+- 808s & Heartbreak | Kanye West · albüm kapağı | 2008 | Albüm kapağı
+- Nike 1World Air Force 1 | Ayakkabı tasarımı | 2008 | Ürün
+- Kaws: 1993–2010 | Retrospektif kitap | 2009 | Kitap
+- Seated Companion | Heykel | 2011 | Heykel
+- Downtime | High Museum of Art, Atlanta | 2012 | Sergi
+- Companion balonu | Macy's Şükran Günü Geçidi | 2012 | Enstalasyon
+- Moonman | MTV VMA ödül heykelciğinin yeniden tasarımı | 2013 | Tasarım
+- Final Days | CAC Málaga | 2014 | Sergi
+- Uniqlo × Sesame Street | Giyim serisi | 2016 | Ürün
+- Air Jordan 4 | Ayakkabı ve giyim kapsülü | 2017 | Ürün
+- Uniqlo × Peanuts | Giyim serisi | 2017 | Ürün
+- Waiting | Greenpoint, Brooklyn · heykel | 2019 | Heykel
+- The Scotts | Travis Scott ve Kid Cudi · single görselleri | 2021 | Albüm kapağı
+- Fortnite | Skeleton kıyafeti | 2021 | Oyun
+- MORE | J-Hope · albüm kapağı | 2022 | Albüm kapağı
+- Monster Cereals | Kutu tasarımları | 2022 | Ambalaj
+- Brooklyn Nets | City Edition formaları | 2023 | Tasarım
+- Let God Sort Em Out | Clipse · albüm kapağı | 2025 | Albüm kapağı
+@ jr | JR | 1983– | Fransa | telif
+# Dev fotoğraf · Sokak afişi · Katılımcı proje
+> Kendini "fotograffiti" yapan biri olarak tanımlayan Fransız sanatçı; sıradan insanların dev siyah-beyaz portrelerini binalara, duvarlara ve sınırlara yapıştırarak sokağı bir galeriye çevirir. TED Ödülü'yle başlattığı Inside Out projesi dünyanın dört bir yanından katılımcılara ulaştı; Agnès Varda'yla çektiği Faces Places Cannes'da ödül aldı.
+- Portraits of a Generation | Paris banliyöleri | 2004 | Sokak afişi
+- Les Bosquets | 2005 ayaklanmaları sonrası | 2005 | Sokak afişi
+- Face 2 Face | İsrail ve Filistin · ayırma duvarı | 2007 | Sokak afişi
+- Women Are Heroes | Sierra Leone'den Hindistan'a kadınların portreleri | 2008 | Proje
+- The Wrinkles of the City | Cartagena'dan Şanghay ve İstanbul'a | 2008 | Proje
+- Women Are Heroes (film) | Cannes Eleştirmenler Haftası | 2010 | Film
+- Inside Out | TED Ödülü ile başlayan küresel katılımcı proje | 2011 | Proje
+- Havana Bienali | José Parlá ile | 2012 | Proje
+- Inside Out: The People's Art Project | Belgesel · Tribeca | 2013 | Film
+- Unframed, Marseille | La Belle de Mai | 2013 | Proje
+- Panthéon | Yaklaşık 4.000 yüz | 2014 | Enstalasyon
+- Unframed, Ellis Island | Terk edilmiş hastane | 2014 | Enstalasyon
+- Les Bosquets (bale) | New York City Ballet | 2014 | Sahne
+- Ellis | Robert De Niro'lu kısa film | 2015 | Film
+- Louvre Piramidi | Anamorfik illüzyon | 2016 | Enstalasyon
+- Giants | Rio Olimpiyatları | 2016 | Enstalasyon
+- Faces Places | Agnès Varda ile belgesel · Cannes Altın Göz | 2017 | Film
+- Kikito | Tecate · ABD–Meksika sınırında dev çocuk | 2017 | Enstalasyon
+- Guns in America | Time kapağı projesi | 2018 | Dergi kapağı
+- Louvre Piramidi illüzyonu | Kâğıttan dev kolaj | 2019 | Enstalasyon
+- Paper & Glue | Belgesel · Emmy adaylığı | 2021 | Film
+- Greetings from Giza | Kefren Piramidi | 2021 | Enstalasyon
+- The Resilience of Ukraine | Lviv | 2022 | Enstalasyon
+- Retour à la caverne | Place de l'Opéra, Paris | 2023 | Enstalasyon
+- An Urban Allegory | Alice Rohrwacher ile kısa film · Venedik | 2024 | Film
+@ invader | Invader | 1969– | Fransa | telif
+# Seramik mozaik · Piksel sanatı · Kentsel istila
+> 1970'lerin video oyunlarındaki uzaylıları seramik karolardan mozaiklere dönüştürüp dünyanın onlarca şehrinin duvarlarına yerleştiren Fransız sokak sanatçısı. Her "istilayı" haritalayıp numaralandırır; Rubik küplerinden yaptığı Rubikcubism serisi ve uzay istasyonuna gönderdiği mozaiklerle de tanınır.
+- Hollywood tabelası | Y2K için "D" harfine mozaik | 1999 | Müdahale
+- Lyon Çağdaş Sanat Bienali | 6. bienal | 2001 | Sergi
+- MAMA Gallery | Rotterdam | 2002 | Sergi
+- L'Invasion de Paris: Livre 01 | Paris istilası kitabı | 2003 | Kitap
+- Magda Danysz Galerisi | Paris | 2003 | Sergi
+- Rubikcubism | Rubik küplerinden iç mekân işleri | 2004 | Seri
+- Invasion Los Angeles: Guide 2 | Kitap | 2004 | Kitap
+- Subliminal Projects | Los Angeles | 2004 | Sergi
+- Rubik Mona Lisa | Galerie de Bellecour, Lyon | 2005 | Resim
+- Invasion in the UK: Guide 3 | Londra, Manchester, Newcastle | 2008 | Kitap
+- Invader Roma 2010 | Wunderkammern Galerisi | 2010 | Sergi
+- Exit Through the Gift Shop | Belgeselde yer aldı | 2010 | Film
+- 1000 | La Générale, Paris · Paris'teki 1.000. işi | 2011 | Sergi
+- Lazarides | Londra | 2011 | Sergi
+- Art in the Streets | MoCA Los Angeles | 2011 | Sergi
+- Art4Space | Hava balonuyla uzaya gönderme denemesi · kısa film | 2012 | Film
+- Mission Miami | Invasion Guide 5 | 2013 | Kitap
+- L'Invasion de Paris: 1000 | İki ciltlik kitap | 2013 | Kitap
+- Hong Kong istilası | 48 iş | 2014 | Seri
+- Space2 | Uluslararası Uzay İstasyonu'na giden mozaik | 2015 | Müdahale
+- Wipe Out | Hong Kong kişisel sergi | 2015 | Sergi
+- Veggietown | Paris'te sebze temalı mozaikler | 2017 | Seri
+- Ravenna istilası | İtalya | 2017 | Seri
+- Invasion Los Angeles | İngilizce baskı · Control P | 2018 | Kitap
+- Rubikcubist Invader | Kitap | 2022 | Kitap
+@ mark-ryden | Mark Ryden | 1963– | ABD | telif
+# Yağlıboya · Pop gerçeküstücülük · Tatlı-tekinsiz
+> Viktorya dönemi resmini, oyuncak estetiğini ve tekinsiz sembolleri birleştiren "pop gerçeküstücülük" akımının öncü Amerikalı ressamı. Michael Jackson'ın Dangerous ve Red Hot Chili Peppers'ın One Hot Minute kapaklarını yaptı; galeri resimlerinin yanı sıra Amerikan Bale Tiyatrosu için bir balenin dekor ve kostümlerini tasarladı.
+- Love in an Elevator | Aerosmith · single görseli | 1989 | Albüm kapağı
+- Dirty Rotten Filthy Stinking Rich | Warrant · ilk albüm kapağı | 1989 | Albüm kapağı
+- Dangerous | Michael Jackson · albüm kapağı | 1991 | Albüm kapağı
+- Uncle Anesthesia | Screaming Trees · albüm kapağı | 1991 | Albüm kapağı
+- Bigger, Better, Faster, More! | 4 Non Blondes · albüm kapağı | 1992 | Albüm kapağı
+- Saint Barbie | İlk Barbie resmi | 1994 | Resim
+- One Hot Minute | Red Hot Chili Peppers · albüm kapağı | 1995 | Albüm kapağı
+- Desperation | Stephen King · kitap kapağı | 1996 | Kitap kapağı
+- The Regulators | Stephen King (Richard Bachman) · kitap kapağı | 1996 | Kitap kapağı
+- The Meat Show | Pasadena · ilk kişisel sergi | 1998 | Sergi
+- Shapeshifter | Marcy Playground · albüm kapağı | 1999 | Albüm kapağı
+- Clear Hearts Grey Flowers | Jack Off Jill · albüm kapağı | 2000 | Albüm kapağı
+- Bunnies and Bees | Earl McGrath Galerisi, New York | 2001 | Sergi
+- Blood | Los Angeles | 2003 | Sergi
+- Insalata Mista | Bologna | 2003 | Sergi
+- Wondertoonel | Frye Museum · ara dönem retrospektifi | 2004 | Sergi
+- The Tree Show | Michael Kohn Galerisi | 2007 | Sergi
+- The Snow Yak Show | Tomio Koyama Galerisi, Tokyo | 2009 | Sergi
+- The Gay 90's: Olde Tyme Art Show | Paul Kasmin Galerisi, New York | 2010 | Sergi
+- Wolf | Tyler, the Creator · albüm kapağı | 2013 | Albüm kapağı
+- Daisy Bell | Kendi albümü · The Gay Nineties Olde Tyme Music | 2014 | Albüm kapağı
+- The Gay 90's West | Los Angeles | 2014 | Sergi
+- Cámara de las Maravillas | CAC Málaga | 2016 | Sergi
+- Whipped Cream | Alexei Ratmansky balesi · dekor ve kostüm | 2017 | Sahne
+- Barbie | Mattel için sınırlı sayıda tasarım | 2022 | Ürün
+@ hajime-sorayama | Hajime Sorayama | 1947– | Japonya | telif
+# Hava fırçası · Krom yüzey · Robot ve pin-up
+> Krom kaplı kadın robotlarını hava fırçasıyla neredeyse fotoğraf gerçekliğinde çizen Japon illüstratör. Sexy Robot serisiyle tanındı; Sony'nin ilk robot köpeği AIBO'nun tasarımına katkısıyla Japonya'nın en büyük tasarım ödülünü aldı, Aerosmith ve Dior için de çalıştı.
+- İlk robot çizimi | Suntory afişi için | 1978 | Afiş
+- Sexy Robot | Genko-sha | 1983 | Kitap
+- Pin-up | Graphic-sha | 1984 | Kitap
+- Venus Odyssey | Tokuma | 1985 | Kitap
+- Hajime Sorayama | Taco, Berlin | 1989 | Kitap
+- Sorayama Hyper Illustrations | Bijutsu Shuppan-sha | 1989 | Kitap
+- The Gynoids | Edition Treville | 1993 | Kitap
+- Naga | Sakuhin-sha | 1997 | Kitap
+- Torquere | Sakuhin-sha | 1998 | Kitap
+- AIBO | Sony'nin ilk robot köpeği · tasarım | 1999 | Ürün tasarımı
+- Sorayama 1964–99: The Complete Works | Sakuhin-sha | 1999 | Kitap
+- The Gynoids Genetically Manipulated | Edition Treville | 2000 | Kitap
+- Sorayamart | Ed. Soleil | 2000 | Kitap
+- Just Push Play | Aerosmith · albüm kapağı | 2001 | Albüm kapağı
+- Metallicon | Sakuhin-sha | 2001 | Kitap
+- Venom | Graphic-sha | 2002 | Kitap
+- Latex Galatea | Editions Treville | 2003 | Kitap
+- Relativision | Kitap | 2006 | Kitap
+- Sorayama's Master Works | Retrospektif | 2010 | Kitap
+- Marc Ecko | Moda iş birliği | 2012 | Moda iş birliği
+- Star Wars Art: Concept | Katkı | 2013 | Kitap
+- Vibrant Vixens | Kitap | 2013 | Kitap
+- XL Masterworks | Güncellenmiş baskı | 2014 | Kitap
+- Juun.J | Moda iş birliği | 2016 | Moda iş birliği
+- Dior Pre-Fall 2019 | Kim Jones'un erkek koleksiyonu · dev robot heykel | 2019 | Moda iş birliği

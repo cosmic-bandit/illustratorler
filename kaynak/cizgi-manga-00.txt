@@ -1,0 +1,281 @@
+= cizgi-manga
+@ hayao-miyazaki | Hayao Miyazaki | 1941– | Japonya | telif
+# Suluboya · El çizimi animasyon · Uçuş ve doğa
+> Studio Ghibli'nin kurucularından Japon animatör, yönetmen ve manga sanatçısı; kendi çizdiği Rüzgârlı Vadi'nin Nausicaä'sı mangası ve suluboya storyboard'larıyla filmlerinin görsel dünyasını bizzat kurar. Ruhların Kaçışı ile Oscar ve Berlin Altın Ayı'yı, Çocuk ve Balıkçıl ile ikinci Oscar'ını kazandı.
+- Hayvanlar Hazine Adası | Animal Treasure Island · anahtar animatör | 1971 | Animasyon
+- Panda! Go Panda! | Senaryo ve tasarım | 1972 | Animasyon
+- Geleceğin Çocuğu Conan | Future Boy Conan · ilk yönetmenliği | 1978 | Animasyon
+- Cagliostro'nun Şatosu | Lupin III: The Castle of Cagliostro | 1979 | Animasyon
+- Rüzgârlı Vadi'nin Nausicaä'sı (manga) | 1982–1994 arası yazıp çizdiği manga | 1982 | Manga
+- Shuna'nın Yolculuğu | Shuna no Tabi · suluboya resimli anlatı | 1983 | Manga
+- Sherlock Hound | Dizi bölümleri · yönetmen | 1984 | Animasyon
+- Rüzgârlı Vadi'nin Nausicaä'sı (film) | Ghibli'nin kuruluşuna giden film | 1984 | Animasyon
+- Gökyüzündeki Kale Laputa | Castle in the Sky · Ghibli'nin ilk filmi | 1986 | Animasyon
+- Komşum Totoro | My Neighbor Totoro | 1988 | Animasyon
+- Küçük Cadı Kiki | Kiki's Delivery Service | 1989 | Animasyon
+- Hikōtei Jidai | Porco Rosso'nun kaynağı olan suluboya manga | 1989 | Manga
+- Porco Rosso | Kızıl domuz pilot | 1992 | Animasyon
+- Zassō Nōto | Daydream Notes · suluboya defterleri | 1992 | Manga
+- On Your Mark | Chage and Aska · kısa müzik filmi | 1995 | Animasyon
+- Starting Point 1979–1996 | Yazılar ve çizimler | 1996 | Kitap
+- Prenses Mononoke | Princess Mononoke | 1997 | Animasyon
+- Ruhların Kaçışı | Spirited Away · Oscar, Altın Ayı | 2001 | Animasyon
+- Ghibli Müzesi | Mitaka · tasarım ve kısa filmler | 2001 | Mimari
+- Mei ve Kedi Otobüs | Mei and the Kittenbus · müze kısa filmi | 2002 | Animasyon
+- Yürüyen Şato | Howl's Moving Castle | 2004 | Animasyon
+- Ponyo | Gake no Ue no Ponyo | 2008 | Animasyon
+- Rüzgâr Yükseliyor | The Wind Rises | 2013 | Animasyon
+- Tırtıl Boro | Boro the Caterpillar · müze kısa filmi | 2018 | Animasyon
+- Çocuk ve Balıkçıl | The Boy and the Heron · Oscar | 2023 | Animasyon
+@ katsuhiro-otomo | Katsuhiro Otomo | 1954– | Japonya | telif
+# Ayrıntılı mürekkep · Siberpunk · Kentsel yıkım
+> Neo-Tokyo'nun yıkıntıları arasında geçen Akira mangası ve filmiyle siberpunk estetiğini dünyaya yayan Japon manga sanatçısı ve yönetmen. Ayrıntılı, gerçekçi mimarisi ve sinematik kadrajlarıyla bir kuşak çizeri etkiledi; 2015'te Angoulême Büyük Ödülü'nü kazandı.
+- Jū Hōkoku | A Gun Report · ilk eseri | 1973 | Manga
+- Highway Star | Kısa öyküler | 1979 | Manga
+- Short Peace | Kısa öyküler derlemesi | 1979 | Manga
+- Fireball | Yarım kalan bilimkurgu | 1979 | Manga
+- Sayonara Nippon | Kısa öyküler | 1981 | Manga
+- Kibun wa Mō Sensō | Toshihiko Yahagi ile | 1982 | Manga
+- Akira (manga) | 1982–1990 | 1982 | Manga
+- Dōmu | Domu: A Child's Dream · Japonya SF Büyük Ödülü | 1983 | Manga
+- Harmagedon | Animasyon filmi · karakter tasarımı | 1983 | Animasyon
+- Robot Carnival | Antoloji · açılış ve kapanış | 1987 | Animasyon
+- Neo Tokyo | Manie-Manie · Construction Cancellation Order bölümü | 1987 | Animasyon
+- Akira (film) | Yazıp yönettiği animasyon | 1988 | Animasyon
+- Kaba | Sanat kitabı | 1989 | Kitap
+- The Legend of Mother Sarah | Senarist · çizim Takumi Nagayasu | 1990 | Manga
+- World Apartment Horror | Yönettiği canlı çekim film | 1991 | Film
+- Roujin Z | Senaryo ve mekanik tasarım | 1991 | Animasyon
+- Memories | Cannon Fodder bölümünün yönetmeni | 1995 | Animasyon
+- Spriggan | Genel denetmen | 1998 | Animasyon
+- Metropolis | Osamu Tezuka uyarlaması · senaryo | 2001 | Animasyon
+- Steamboy | Yazıp yönettiği film | 2004 | Animasyon
+- Mushishi | Canlı çekim film · yönetmen | 2006 | Film
+- Freedom Project | Karakter tasarımı | 2006 | Animasyon
+- GENGA | Tokyo'da orijinal çizimler sergisi | 2012 | Sergi
+- Short Peace: Combustible | Hi no Yōjin · yönetmen | 2013 | Animasyon
+- Otomo Katsuhiro Zenshū | Tüm eserler külliyatı | 2022 | Kitap
+@ naoki-urasawa | Naoki Urasawa | 1960– | Japonya | telif
+# Sinematik kadraj · Gerilim · Yetişkin manga
+> Monster, 20th Century Boys ve Pluto ile mangada uzun soluklu gerilim anlatısının ustası sayılan Japon sanatçı. Sinema gibi kurgulanmış sayfaları ve kalabalık karakter kadrosuyla Tezuka Osamu Kültür Ödülü'nü birden çok kez kazandı; aynı zamanda albüm çıkaran bir müzisyen ve NHK'nın manga belgeselinin sunucusudur.
+- Pineapple Army | Senarist Kazuya Kudo | 1985 | Manga
+- Yawara! | Judocu kızın hikâyesi | 1986 | Manga
+- Master Keaton | Hokusei Katsushika ve Takashi Nagasaki ile | 1988 | Manga
+- Yawara! (anime ve film) | Uyarlamalar | 1989 | Animasyon
+- Happy! | Tenisçi kızın hikâyesi | 1993 | Manga
+- Monster | Seri katil ve cerrah · Almanya | 1994 | Manga
+- Master Keaton (anime) | Televizyon dizisi | 1998 | Animasyon
+- 20th Century Boys | 20. Yüzyıl Çocukları | 1999 | Manga
+- Pluto | Osamu Tezuka'nın Astro Boy'undan · Takashi Nagasaki ile | 2003 | Manga
+- Monster (anime) | Madhouse dizisi | 2004 | Animasyon
+- 21st Century Boys | Final | 2006 | Manga
+- Happy! (TV) | Canlı çekim televizyon filmleri | 2006 | Televizyon
+- 20th Century Boys (film) | Üç filmlik uyarlama · senaryo ortaklığı | 2008 | Film
+- Hanseiki no Otoko | İlk müzik albümü | 2008 | Albüm
+- Billy Bat | Takashi Nagasaki ile | 2008 | Manga
+- The Tibetan Dog | Animasyon filmi · ilk karakter tasarımları | 2011 | Animasyon
+- Master Keaton Remaster | Takashi Nagasaki ile | 2012 | Manga
+- Kaiju Kingdom | Tek bölümlük manga | 2013 | Manga
+- Urasawa Naoki no Manben | NHK belgesel dizisi · sunucu | 2014 | Belgesel
+- Mannon | İkinci müzik albümü | 2016 | Albüm
+- Urasawa Naoki Sergisi | Tokyo ve Osaka | 2016 | Sergi
+- Mujirushi: Rüyaların İşareti | Louvre iş birliği | 2017 | Manga
+- Asadora! | Pilot kızın hikâyesi | 2018 | Manga
+- Pluto (anime) | Netflix dizisi | 2023 | Animasyon
+- La Panthère de Cartier | Cartier ile yaratıcı ortaklık | 2025 | Moda iş birliği
+@ rumiko-takahashi | Rumiko Takahashi | 1957– | Japonya | telif
+# Yumuşak çizgi · Romantik komedi · Fantastik
+> Urusei Yatsura, Maison Ikkoku, Ranma ½ ve Inuyasha ile kırk yılı aşkın süredir manganın en çok satan isimlerinden biri olan Japon sanatçı. Komediyi romantizm ve doğaüstüyle harmanlayan karakterleri dünyanın dört bir yanında anime uyarlamalarıyla tanındı; 2019'da Angoulême Büyük Ödülü'nü aldı.
+- Katte na Yatsura | İlk kısa öyküsü | 1978 | Manga
+- Urusei Yatsura | Uzaylı Lum ve Ataru | 1978 | Manga
+- Maison Ikkoku | Pansiyonda romantik komedi | 1980 | Manga
+- Urusei Yatsura (anime) | Televizyon dizisi | 1981 | Animasyon
+- Fire Tripper | Kısa öykü | 1983 | Manga
+- The Laughing Target | Kısa öykü | 1983 | Manga
+- Mermaid Saga | Ölümsüzlük veren deniz kızı eti | 1984 | Manga
+- Urusei Yatsura 2: Beautiful Dreamer | Mamoru Oshii filmi | 1984 | Animasyon
+- Fire Tripper (OVA) | Animasyon uyarlaması | 1985 | Animasyon
+- Maison Ikkoku (anime) | Televizyon dizisi | 1986 | Animasyon
+- Ranma ½ | Suya değince kıza dönüşen dövüşçü | 1987 | Manga
+- One-Pound Gospel | Boksör ve rahibe | 1987 | Manga
+- Rumic Theater | Kısa öyküler derlemesi | 1987 | Manga
+- Ranma ½ (anime) | Televizyon dizisi | 1989 | Animasyon
+- Inuyasha | Feodal Japonya'da yarı iblis | 1996 | Manga
+- Inuyasha (anime) | Televizyon dizisi | 2000 | Animasyon
+- Mermaid Forest | Mermaid Saga'nın anime uyarlaması | 2003 | Animasyon
+- Kyōkai no Rinne | Rin-ne · ölümle yaşam arasında | 2009 | Manga
+- Inuyasha: The Final Act | Kanketsu-hen · animenin finali | 2009 | Animasyon
+- Rin-ne (anime) | Televizyon dizisi | 2015 | Animasyon
+- Mao | Taishō dönemi gizem | 2019 | Manga
+- Yashahime | Inuyasha'nın devamı · karakter tasarımı | 2020 | Animasyon
+- Urusei Yatsura (2022) | Yeni anime uyarlaması | 2022 | Animasyon
+- Ranma ½ (2024) | Yeni anime uyarlaması | 2024 | Animasyon
+- Urusei Yatsura: Only You | İlk sinema filmi | 1983 | Animasyon
+@ eiichiro-oda | Eiichiro Oda | 1975– | Japonya | telif
+# Abartılı karakter · Macera · Haftalık manga
+> 1997'den beri haftalık olarak çizdiği One Piece ile tarihin en çok basılan tek yazarlı çizgi roman dizisini yaratan Japon sanatçı. Lastik vücutlu korsan Luffy ve tayfasının dünyası 500 milyonu aşan kopya, uzun soluklu anime ve 2023'teki Netflix uyarlamasıyla küresel bir fenomene dönüştü.
+- Wanted! | Tek bölümlük · Tezuka Ödülü ikincisi | 1992 | Manga
+- God's Present for the Future | Tek bölümlük | 1993 | Manga
+- Ikki Yakō | Tek bölümlük | 1993 | Manga
+- Monsters | Tek bölümlük | 1994 | Manga
+- Romance Dawn | One Piece'in ilk versiyonu | 1996 | Manga
+- Romance Dawn (ikinci versiyon) | Tek bölümlük | 1996 | Manga
+- One Piece | Haftalık dizi | 1997 | Manga
+- Wanted! Eiichiro Oda Short Stories | Erken öyküler derlemesi | 1998 | Manga
+- One Piece (anime) | Toei Animation dizisi | 1999 | Animasyon
+- One Piece Color Walk 1 | Sanat kitabı | 2001 | Kitap
+- Cross Epoch | Akira Toriyama ile Dragon Ball buluşması | 2007 | Manga
+- One Piece Film: Strong World | Hikâye ve tasarım | 2009 | Animasyon
+- Taste of the Devil Fruit | Mitsutoshi Shimabukuro ile Toriko buluşması | 2011 | Manga
+- One Piece Film: Z | Karakter ve kostüm tasarımı | 2012 | Animasyon
+- Gaist Crusher | Video oyunu için karakter tasarımı | 2013 | Oyun
+- One Piece Film: Gold | Karakter tasarımı | 2016 | Animasyon
+- Momoko Sakura saygı çizimi | Luffy ve Maruko-chan | 2018 | İllüstrasyon
+- One Piece: Stampede | Karakter tasarımı | 2019 | Animasyon
+- Gucci lookbook | Luffy ve Zoro Gucci'yle | 2020 | Moda iş birliği
+- Tokyo 2020 Olimpiyat programı | Karate çizimi | 2021 | İllüstrasyon
+- Fransa Cumhurbaşkanı için çizim | Özgün çizim | 2021 | İllüstrasyon
+- One Piece Film: Red | Yapımcı ve karakter tasarımı | 2022 | Animasyon
+- One Piece (Netflix) | Canlı çekim dizi · yapımcı | 2023 | Televizyon
+- One Piece Odyssey | Video oyunu karakter tasarımları | 2023 | Oyun
+- Monsters (anime) | 103 Mercies Dragon Damnation | 2024 | Animasyon
+@ frank-miller | Frank Miller | 1957– | ABD | telif
+# Yüksek kontrast · Kara film · Siyah-beyaz
+> Daredevil ve The Dark Knight Returns ile 1980'lerde süper kahraman çizgi romanını karanlık ve yetişkin bir dile taşıyan Amerikalı çizer ve senarist. Siyah-beyaz kontrastın sınırlarını zorlayan Sin City ve 300 ile kara filmi sayfaya taşıdı; Sin City'yi Robert Rodriguez'le birlikte sinemaya uyarladı.
+- Batman: Wanted: Santa Claus | Denny O'Neil · çizer | 1980 | Çizgi roman
+- Daredevil | 158–191. sayılar · çizer, sonra senarist | 1979 | Çizgi roman
+- Bizarre Adventures #28 | Elektra öyküsü | 1981 | Çizgi roman
+- Wolverine | Chris Claremont · dört sayılık dizi | 1982 | Çizgi roman
+- Ronin | Yazıp çizdiği dizi | 1983 | Çizgi roman
+- Batman: Kara Şövalye'nin Dönüşü | Batman: The Dark Knight Returns | 1986 | Grafik roman
+- Daredevil: Born Again | Senarist · çizim David Mazzucchelli | 1986 | Çizgi roman
+- Elektra: Assassin | Senarist · çizim Bill Sienkiewicz | 1986 | Çizgi roman
+- Daredevil: Love and War | Senarist · çizim Bill Sienkiewicz | 1986 | Grafik roman
+- Batman: Birinci Yıl | Batman: Year One · senarist, çizim David Mazzucchelli | 1987 | Çizgi roman
+- Give Me Liberty | Senarist · çizim Dave Gibbons | 1990 | Çizgi roman
+- Hard Boiled | Senarist · çizim Geof Darrow | 1990 | Çizgi roman
+- RoboCop 2 | Senarist | 1990 | Film
+- Elektra Lives Again | Yazıp çizdiği grafik roman | 1991 | Grafik roman
+- Sin City: The Hard Goodbye | Yazıp çizdiği ilk Sin City | 1991 | Çizgi roman
+- Sin City: A Dame to Kill For | Sin City | 1993 | Çizgi roman
+- Sin City: The Big Fat Kill | Sin City | 1994 | Çizgi roman
+- The Big Guy and Rusty the Boy Robot | Geof Darrow ile | 1995 | Çizgi roman
+- Sin City: That Yellow Bastard | Sin City | 1996 | Çizgi roman
+- 300 | Thermopylae savaşı | 1998 | Grafik roman
+- The Dark Knight Strikes Again | Yazıp çizdiği devam | 2001 | Çizgi roman
+- Sin City (film) | Robert Rodriguez ile ortak yönetmen | 2005 | Film
+- The Spirit | Yazıp yönettiği film | 2008 | Film
+- Holy Terror | Yazıp çizdiği grafik roman | 2011 | Grafik roman
+- Xerxes | 300'ün devamı | 2018 | Çizgi roman
+@ mike-mignola | Mike Mignola | 1960– | ABD | telif
+# Blok siyah · Gotik folklor · Minimal renk
+> Kalın siyah gölgeler ve az renkle kurduğu gotik sayfalarıyla tanınan Amerikalı çizer; Hellboy'u ve onun etrafında büyüyen B.P.R.D. evrenini yarattı. Disney'in Atlantis'inin görsel tasarımında çalıştı; Hellboy, Guillermo del Toro'nun iki filmiyle sinemaya taşındı.
+- Rocket Raccoon | Bill Mantlo · dört sayılık dizi | 1985 | Çizgi roman
+- Cosmic Odyssey | Jim Starlin | 1988 | Çizgi roman
+- Gotham by Gaslight | Brian Augustyn · Viktorya dönemi Batman | 1989 | Grafik roman
+- Fafhrd and the Gray Mouser | Howard Chaykin · Fritz Leiber uyarlaması | 1990 | Çizgi roman
+- Bram Stoker's Dracula | Topps · film uyarlaması | 1992 | Çizgi roman
+- Hellboy: Seed of Destruction | John Byrne ile | 1994 | Çizgi roman
+- Hellboy: Wake the Devil | Yazıp çizdiği | 1996 | Çizgi roman
+- Hellboy: The Chained Coffin and Others | Kısa öyküler | 1998 | Çizgi roman
+- Batman: The Doom That Came to Gotham | Richard Pace ile senaryo · çizim Troy Nixey | 2000 | Çizgi roman
+- Atlantis: Kayıp İmparatorluk | Atlantis: The Lost Empire · Disney, prodüksiyon tasarımı | 2001 | Animasyon
+- Hellboy: Conqueror Worm | Yazıp çizdiği | 2001 | Çizgi roman
+- The Amazing Screw-On Head | Tek sayılık hikâye · Eisner Ödülü | 2002 | Çizgi roman
+- B.P.R.D. | Hellboy'un yan dizisi · ortak yaratıcı | 2002 | Çizgi roman
+- Hellboy (film) | Guillermo del Toro · görsel danışman | 2004 | Film
+- Hellboy: Strange Places | Kısa öyküler | 2006 | Çizgi roman
+- Hellboy Animated: Sword of Storms | Animasyon filmi | 2006 | Animasyon
+- Baltimore, or The Steadfast Tin Soldier and the Vampire | Christopher Golden ile resimli roman | 2007 | Roman
+- Lobster Johnson | Senarist · yan dizi | 2007 | Çizgi roman
+- Hellboy II: The Golden Army | Guillermo del Toro filmi | 2008 | Film
+- Hellboy: The Wild Hunt | Senarist · çizim Duncan Fegredo | 2010 | Çizgi roman
+- Joe Golem and the Drowning City | Christopher Golden ile resimli roman | 2012 | Roman
+- Father Gaetano's Puppet Catechism | Christopher Golden ile | 2012 | Roman
+- Hellboy in Hell | Yazıp çizdiği · Hellboy'un dönüşü | 2012 | Çizgi roman
+- Hellboy: Into the Silent Sea | Gary Gianni ile | 2017 | Grafik roman
+- Hellboy: The Crooked Man | Senarist · çizim Richard Corben | 2008 | Çizgi roman
+@ chris-ware | Chris Ware | 1967– | ABD | telif
+# Diyagram · Tipografi · Melankoli
+> Diyagramlar, kesitler ve titiz tipografiyle kurduğu sayfalarıyla çizgi romanı mimari bir okuma deneyimine dönüştüren Amerikalı çizer. Jimmy Corrigan, the Smartest Kid on Earth ile Guardian İlk Kitap Ödülü'nü kazandı; 14 parçalık kutu kitabı Building Stories ile çizgi romanın biçimini yeniden tanımladı ve 2021'de Angoulême Büyük Ödülü'nü aldı.
+- Floyd Farland, Citizen of the Future | Eclipse Comics | 1988 | Çizgi roman
+- The ACME Novelty Library | Fantagraphics · kendine ait dergi-kitap dizisi | 1993 | Çizgi roman
+- Zemberekkuşunun Güncesi | The Wind-Up Bird Chronicle · Haruki Murakami, iç çizimler | 1997 | Kitap illüstrasyonu
+- Jimmy Corrigan, the Smartest Kid on Earth | Pantheon · Guardian İlk Kitap Ödülü | 2000 | Grafik roman
+- Whitney Bienali | Davet edilen ilk çizgi romancı | 2002 | Sergi
+- Krazy & Ignatz | Fantagraphics · George Herriman tıpkıbasımlarının tasarımı | 2002 | Kitap tasarımı
+- Quimby the Mouse | Fantagraphics | 2003 | Çizgi roman
+- Lost Buildings | Ira Glass ile çok ortamlı proje | 2004 | Proje
+- McSweeney's Quarterly Concern No. 13 | Çizgi roman sayısı · editör | 2004 | Dergi
+- The ACME Novelty Library (toplu) | Pantheon | 2005 | Çizgi roman
+- Walt and Skeezix | Drawn & Quarterly · Frank King tıpkıbasımlarının tasarımı | 2005 | Kitap tasarımı
+- Candide | Penguin kapağı | 2005 | Kitap kapağı
+- MCA Chicago | Kişisel sergi | 2006 | Sergi
+- The Best American Comics 2007 | Konuk editör | 2007 | Kitap
+- ACME Novelty Datebook | Drawn & Quarterly · eskizler | 2007 | Eskiz defteri
+- This American Life | Showtime dizisi için animasyon bölümleri | 2007 | Animasyon
+- The Savages | Tamara Jenkins filmi · afiş | 2007 | Film afişi
+- Lint | ACME Novelty Library #20 | 2010 | Çizgi roman
+- Uncle Boonmee Who Can Recall His Past Lives | Apichatpong Weerasethakul · ABD afişi | 2011 | Film afişi
+- Building Stories | 14 parçalık kutu kitap | 2012 | Grafik roman
+- The Last Saturday | The Guardian · web dizisi | 2014 | Çizgi roman
+- Monograph | Rizzoli · anı ve retrospektif | 2017 | Kitap
+- Private Life | Tamara Jenkins filmi · afiş | 2018 | Film afişi
+- Rusty Brown | Pantheon · birinci kitap | 2019 | Grafik roman
+- USPS 250. yıl pulları | Forever pulları · şehir paneli | 2025 | Pul
+@ enki-bilal | Enki Bilal | 1951– | Fransa (Belgrad doğumlu) | telif
+# Guaj · Pastel · Distopik bilimkurgu
+> Belgrad'da doğup Paris'te büyüyen çizgi roman sanatçısı ve yönetmen; gri-mavi tonlu, boyalı sayfalarıyla siyasi distopyalar kurar. Nikopol üçlemesi ve Canavar Tetralojisi Avrupa bilimkurgusunun başyapıtları arasında; 2012'de Louvre'da kişisel sergi açtı.
+- La Croisière des oubliés | Pierre Christin | 1975 | Çizgi roman
+- Le Vaisseau de pierre | Pierre Christin | 1976 | Çizgi roman
+- La Ville qui n'existait pas | Pierre Christin | 1977 | Çizgi roman
+- Exterminateur 17 | Jean-Pierre Dionnet | 1979 | Çizgi roman
+- Kara Düzenin Falanjları | Les Phalanges de l'ordre noir · Pierre Christin | 1979 | Çizgi roman
+- Ölümsüzler Panayırı | La Foire aux immortels · Nikopol 1 | 1980 | Çizgi roman
+- Av Partisi | Partie de chasse · Pierre Christin | 1983 | Çizgi roman
+- La vie est un roman | Alain Resnais filmi · ortaçağ bölümlerinin resimleri | 1983 | Film tasarımı
+- Los Angeles – L'Étoile oubliée de Laurie Bloom | Pierre Christin | 1984 | Çizgi roman
+- Tuzak Kadın | La Femme piège · Nikopol 2 | 1986 | Çizgi roman
+- Bunker Palace Hôtel | Yönettiği ilk film | 1989 | Film
+- Soğuk Ekvator | Froid Équateur · Nikopol 3 | 1992 | Çizgi roman
+- Bleu Sang | Resimli kitap | 1994 | Kitap
+- Tykho Moon | Yönettiği film | 1996 | Film
+- Canavarın Uykusu | Le Sommeil du monstre · Canavar Tetralojisi 1 | 1998 | Çizgi roman
+- Un siècle d'amour | Resimli kitap | 1999 | Kitap
+- 32 Aralık | 32 décembre · Canavar Tetralojisi 2 | 2003 | Çizgi roman
+- Immortel (ad vitam) | Nikopol'den uyarlanan film | 2004 | Film
+- Paris'te Randevu | Rendez-vous à Paris · Canavar Tetralojisi 3 | 2006 | Çizgi roman
+- Quatre? | Canavar Tetralojisi 4 | 2007 | Çizgi roman
+- Animal'z | İklim felaketi üçlemesinin ilk albümü | 2009 | Çizgi roman
+- Julia & Roem | Çizgi roman | 2011 | Çizgi roman
+- Louvre'un Hayaletleri | Les Fantômes du Louvre · Louvre sergisi ve kitabı | 2012 | Sergi
+- La Couleur de l'air | Çizgi roman | 2014 | Çizgi roman
+- Bug | Dijital belleğin silindiği dünya · dizi | 2017 | Çizgi roman
+@ bill-watterson | Bill Watterson | 1958– | ABD | telif
+# Fırça mürekkep · Suluboya · Gazete bandı
+> Altı yaşındaki Calvin ile yalnızca onun gözünde canlı olan kaplan Hobbes'u on yıl boyunca çizen Amerikalı karikatürist. Lisanslama ve ürün satışını reddederek bandının bütünlüğünü korudu; 1995'te çizmeyi bıraktığında Calvin and Hobbes dünyanın en sevilen gazete bantlarından biri olmuştu.
+- The Cincinnati Post | Siyasi karikatürist | 1980 | Editoryal
+- Calvin ve Hobbes | Calvin and Hobbes · günlük gazete bandı | 1985 | Bant karikatür
+- Calvin and Hobbes | İlk derleme | 1987 | Kitap
+- Something Under the Bed Is Drooling | Derleme | 1988 | Kitap
+- The Essential Calvin and Hobbes | Büyük boy derleme | 1988 | Kitap
+- Yukon Ho! | Derleme | 1989 | Kitap
+- Weirdos from Another Planet! | Derleme | 1990 | Kitap
+- The Authoritative Calvin and Hobbes | Büyük boy derleme | 1990 | Kitap
+- The Revenge of the Baby-Sat | Derleme | 1991 | Kitap
+- Scientific Progress Goes "Boink" | Derleme | 1991 | Kitap
+- Attack of the Deranged Mutant Killer Monster Snow Goons | Derleme | 1992 | Kitap
+- The Indispensable Calvin and Hobbes | Büyük boy derleme | 1992 | Kitap
+- The Days Are Just Packed | Derleme | 1993 | Kitap
+- Homicidal Psycho Jungle Cat | Derleme | 1994 | Kitap
+- The Calvin and Hobbes Tenth Anniversary Book | Watterson'ın yorumlarıyla | 1995 | Kitap
+- There's Treasure Everywhere | Derleme | 1996 | Kitap
+- It's a Magical World | Son derleme | 1996 | Kitap
+- Calvin and Hobbes: Sunday Pages 1985–1995 | Ohio State sergisi kataloğu | 2001 | Kitap
+- The Complete Calvin and Hobbes | Üç ciltlik tam derleme | 2005 | Kitap
+- Team Cul de Sac | Richard Thompson için Parkinson bağış resmi | 2012 | Resim
+- Exploring Calvin and Hobbes | Billy Ireland Müzesi sergisi | 2014 | Sergi
+- Pearls Before Swine | Stephan Pastis'in bandında gizli konuk çizimler | 2014 | Bant karikatür
+- Stripped | Belgesel afişi | 2014 | Afiş
+- Angoulême 2015 afişi | Büyük Ödül sonrası festival afişi | 2015 | Afiş
+- The Mysteries | John Kascht ile resimli masal | 2023 | Kitap
