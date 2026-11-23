@@ -78,11 +78,12 @@ def main():
         a["eserler"].sort(key=yil)
     gp = os.path.join(KOK, "data", "gorseller.json")
     gorseller = json.load(open(gp, encoding="utf-8")) if os.path.exists(gp) else {}
+    EN_AZ = 10
     sluglar, uyari = set(), []
     for a in sanatcilar:
         if a["slug"] in sluglar: hatalar.append("tekrar eden slug: " + a["slug"])
         sluglar.add(a["slug"])
-        if len(a["eserler"]) != 25: uyari.append("%s: %d eser" % (a["slug"], len(a["eserler"])))
+        if len(a["eserler"]) < EN_AZ: hatalar.append("%s: yalnızca %d eser (en az %d)" % (a["slug"], len(a["eserler"]), EN_AZ))
         anahtarlar = [w["anahtar"] for w in a["eserler"]]
         if len(set(anahtarlar)) != len(anahtarlar): hatalar.append("tekrar eden eser başlığı: " + a["slug"])
         if not a["bio"]: uyari.append(a["slug"] + ": biyografi yok")

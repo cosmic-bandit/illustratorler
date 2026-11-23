@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>İllüstratörler Kataloğu</title>
-<meta name="description" content="Resimli kitaptan sokak afişine, bugün hâlâ üreten 100 çağdaş illüstratör ve 2.500 eser.">
+<meta name="description" content="Resimli kitaptan sokak afişine, bugün hâlâ üreten çağdaş illüstratörler ve en bilinen işleri.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%231b1916'/><text x='32' y='45' font-family='Georgia' font-size='38' font-style='italic' fill='%23f5f1e9' text-anchor='middle'>İ</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -181,7 +181,7 @@ function kur(K){
   var ulke=Object.keys(U).length;
   document.getElementById('stats').innerHTML=[[n,'İllüstratör'],[eser,'Eser'],[K.donemler.length,'Kategori'],[ulke,'Ülke']].map(function(s){return '<div class="stat"><b>'+fmt(s[0])+'</b><span>'+s[1]+'</span></div>';}).join('');
   document.getElementById('strip').innerHTML=K.donemler.map(function(d){return '<i style="background:'+d.renk+'"></i>';}).join('');
-  document.getElementById('lede').textContent='Resimli kitaptan sokak afişine, bugün hâlâ üreten '+n+' çağdaş illüstratör. Her biri için kısa bir portre ve en bilinen '+Math.round(eser/n)+' eseri.';
+  document.getElementById('lede').textContent='Resimli kitaptan sokak afişine, bugün hâlâ üreten '+n+' çağdaş illüstratör ve '+fmt(eser)+' eser. Her biri için kısa bir portre ve en bilinen işleri.';
   document.getElementById('toc').innerHTML=toc;
   document.getElementById('chips').insertAdjacentHTML('beforeend',K.donemler.map(function(d){return '<button class="chip" data-era="'+d.id+'" style="--era:'+d.renk+'">'+esc(d.ad)+'</button>';}).join(''));
   if(K.guncelleme) document.getElementById('stamp').textContent='Son güncelleme: '+K.guncelleme+'.';
