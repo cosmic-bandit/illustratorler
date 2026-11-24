@@ -73,9 +73,6 @@ def main():
         if a["donem"] not in sira: hatalar.append("%s: bilinmeyen kategori %s" % (a["slug"], a["donem"]))
     dogum = lambda a: int((re.findall(r"\d{4}", a["yillar"]) or ["9999"])[0])
     sanatcilar.sort(key=lambda a: (sira.get(a["donem"], 99), dogum(a), a["ad"]))
-    yil = lambda w: int((re.findall(r"\d{4}", w["yil"]) or ["9999"])[0])
-    for a in sanatcilar:
-        a["eserler"].sort(key=yil)
     gp = os.path.join(KOK, "data", "gorseller.json")
     gorseller = json.load(open(gp, encoding="utf-8")) if os.path.exists(gp) else {}
     EN_AZ = 10
@@ -91,7 +88,16 @@ def main():
             g = gorseller.get(w["anahtar"])
             if g and g.get("dosya") and os.path.exists(os.path.join(KOK, g["dosya"])):
                 w["gorsel"], w["kaynak"] = g["dosya"], g.get("kaynak", "")
+                if g.get("tarih"):
+                    w["tarih"] = g["tarih"]
+                if g.get("secki"):
+                    w["secki"] = True
             w.pop("sorgu", None); w.pop("anahtar", None)
+        # Dönem ve seri kayıtlarını ilk yayın yılına göre sırala.
+        def tarih(w):
+            yil = re.search(r"\d{4}", w["yil"])
+            return w.get("tarih") or (yil.group() if yil else "")
+        a["eserler"].sort(key=tarih, reverse=True)
     if hatalar:
         print("HATA:\n  " + "\n  ".join(hatalar)); sys.exit(1)
     for u in uyari: print("uyarı:", u)
