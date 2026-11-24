@@ -105,6 +105,7 @@ footer p{max-width:760px}
 
 .loading{padding:120px 0;text-align:center;color:var(--mute);font-family:var(--serif);font-size:22px}
 .toc-era ol{columns:1}
+#secki{padding-top:26px;padding-bottom:20px}.sec-head{display:flex;align-items:baseline;justify-content:space-between;gap:12px}.sec-head h2{font:600 clamp(28px,4vw,44px)/1.1 var(--serif);margin:0}.sec-head a{font-size:13px}.sec-desc{font-size:14px;color:var(--mute);margin:8px 0 18px}#secki .media{aspect-ratio:3/4}#secki .works{row-gap:28px}
 </style>
 </head>
 <body>
@@ -115,6 +116,11 @@ footer p{max-width:760px}
 <div class="stats" id="stats"></div>
 <div class="strip" id="strip"></div>
 </div></header>
+<section class="wrap" id="secki" aria-labelledby="secki-baslik" hidden>
+  <div class="sec-head"><h2 id="secki-baslik">Güncel seçki</h2><a href="#toc">Sanatçı dizini ↓</a></div>
+  <p class="sec-desc">Afiş, grafik tasarım ve editoryal illüstrasyon · En yeniden en eskiye</p>
+  <div class="works" id="secki-kartlar"></div>
+</section>
 <nav class="wrap toc" id="toc" aria-label="İçindekiler"></nav>
 <div class="bar"><div class="wrap">
  <label class="search"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
@@ -125,7 +131,7 @@ footer p{max-width:760px}
 <main class="wrap" id="main"><p class="loading" id="loading">Katalog yükleniyor…</p></main>
 <p class="wrap empty hidden" id="empty">Aramanızla eşleşen bir sonuç yok.</p>
 <footer class="wrap">
-<p><b>Görseller hakkında.</b> Katalogdaki bütün sanatçılar yaşıyor ve eserlerinin telif hakkı sürüyor; bu yüzden görsel kopyalanmadı. Her eser kartı, o eserin görsel aramasını yeni sekmede açar.</p>
+<p><b>Görseller hakkında.</b> Görsele dokunarak eseri büyütebilir ve kaynağını açabilirsin. Görseli henüz eklenmemiş kartlarda görsel araması bulunur.</p>
 <p>Seçki beş kategoride toplandı: resimli kitap, çizgi roman ve manga, film/oyun ve fantastik, editoryal, afiş ve grafik. Afiş ve grafik kategorisi albüm kapağı, kimlik, tipografi ve sokak sanatını da kapsar. <span id="stamp"></span></p>
 </footer>
 <div class="lb" id="lb" role="dialog" aria-modal="true" aria-label="Görsel">
@@ -148,22 +154,36 @@ function araUrl(a,w){
   if(ilk && !TR.test(ilk) && ilk.length<=45 && ilk.toLowerCase()!==w.baslik.toLowerCase()) q+=' '+ilk;
   return 'https://www.google.com/search?tbm=isch&q='+encodeURIComponent(q).replace(/%20/g,'+');
 }
-function kart(a,w,i){
+function tarihEtiketi(w){
+  if(!w.tarih || w.tarih.length!==10) return w.yil;
+  return new Date(w.tarih+'T12:00:00Z').toLocaleDateString('tr-TR',{day:'numeric',month:'long',year:'numeric',timeZone:'UTC'});
+}
+function kart(a,w,i,secki){
   var hay=esc([a.ad,w.baslik,w.alt,w.tur,w.yil].join(' ').toLowerCase()), media;
   if(w.gorsel){
     media='<button class="media img" data-full="'+esc(w.gorsel)+'" data-src="'+esc(w.kaynak||'')+'" data-cap="'+esc(a.ad+' — '+w.baslik+' ('+w.yil+')')+'" aria-label="'+esc(w.baslik)+' görselini büyüt"><img src="'+esc(w.gorsel)+'" alt="'+esc(a.ad+', '+w.baslik)+'" loading="lazy" decoding="async"></button>';
   } else {
     media='<a class="media type" href="'+esc(araUrl(a,w))+'" target="_blank" rel="noopener"><span class="t-year">'+esc(w.yil)+'</span><span class="t-title">'+esc(w.baslik)+'</span><span class="t-go">Görselleri ara ↗</span></a>';
   }
-  return '<figure class="work" data-hay="'+hay+'">'+media+'<figcaption><span class="wnum">'+pad(i+1)+'</span><span class="wtitle">'+esc(w.baslik)+'</span><span class="wsub">'+esc(w.alt)+'</span><span class="wmeta">'+esc(w.yil)+' · '+esc(w.tur)+'</span></figcaption></figure>';
+  return '<figure class="work" data-hay="'+hay+'">'+media+'<figcaption><span class="wnum">'+pad(i+1)+'</span><span class="wtitle">'+esc(w.baslik)+'</span><span class="wsub">'+esc(secki ? a.ad+' · '+w.alt : w.alt)+'</span><span class="wmeta">'+esc(tarihEtiketi(w))+' · '+esc(w.tur)+'</span></figcaption></figure>';
 }
 function sanatci(a,num,d){
   var tags=a.etiketler.map(function(t){return '<li>'+esc(t)+'</li>';}).join('');
   var hay=esc([a.ad,a.ulke,a.etiketler.join(' '),a.bio].join(' ').toLowerCase());
-  var hak='Eserler telifli · kartlar görsel aramasına bağlanır';
+  var hak='Eserler en yeniden en eskiye sıralanmıştır.';
   return '<article class="artist" id="'+esc(a.slug)+'" data-era="'+d.id+'" data-hay="'+hay+'" style="--era:'+d.renk+';--soft:'+d.acik+'"><header class="a-head"><div class="a-num">'+pad(num)+'</div><div class="a-id"><h3>'+esc(a.ad)+'</h3><p class="a-meta">'+esc(a.yillar)+' · '+esc(a.ulke)+'</p><ul class="a-tags">'+tags+'</ul></div><p class="a-bio">'+esc(a.bio)+'</p><p class="a-rights">'+hak+'</p></header><div class="works">'+a.eserler.map(function(w,i){return kart(a,w,i);}).join('')+'</div></article>';
 }
+function guncelSecki(sanatcilar){
+  var secilen=[];
+  sanatcilar.forEach(function(a){
+    a.eserler.forEach(function(w){if(w.secki && w.gorsel) secilen.push({a:a,w:w});});
+  });
+  secilen.sort(function(x,y){return (y.w.tarih||y.w.yil).localeCompare(x.w.tarih||x.w.yil);});
+  document.getElementById('secki-kartlar').innerHTML=secilen.map(function(k,i){return kart(k.a,k.w,i,true);}).join('');
+  document.getElementById('secki').hidden=!secilen.length;
+}
 function kur(K){
+  guncelSecki(K.sanatcilar);
   var D={},n=0,toc='',secs=[],eser=0,gorsel=0,U={};
   K.donemler.forEach(function(d){D[d.id]=d;});
   K.donemler.forEach(function(d){
@@ -212,8 +232,8 @@ function bitti(){
 }
 // görüntüleyici
 var lb=document.getElementById('lb'),lbi=document.getElementById('lbi'),lbc=document.getElementById('lbc'),lbs=document.getElementById('lbs'),list=[],idx=0;
-function show(i){var b=list[i];if(!b)return;idx=i;lbi.src=b.dataset.full;lbi.alt=b.dataset.cap;lbc.textContent=b.dataset.cap;lbs.innerHTML='';if(b.dataset.src){var a=document.createElement('a');a.href=b.dataset.src;a.target='_blank';a.rel='noopener';a.textContent='Kaynak: Wikimedia Commons ↗';lbs.appendChild(a);}}
-document.addEventListener('click',function(e){var b=e.target.closest('.media.img');if(!b)return;list=[].slice.call(document.querySelectorAll('.work:not(.hidden) .media.img'));show(list.indexOf(b));lb.classList.add('open');});
+function show(i){var b=list[i];if(!b)return;idx=i;lbi.src=b.dataset.full;lbi.alt=b.dataset.cap;lbc.textContent=b.dataset.cap;lbs.innerHTML='';if(b.dataset.src){var a=document.createElement('a');a.href=b.dataset.src;a.target='_blank';a.rel='noopener';a.textContent='Eserin kaynağı ↗';lbs.appendChild(a);}}
+document.addEventListener('click',function(e){var b=e.target.closest('.media.img');if(!b)return;list=[].slice.call(b.closest('.works').querySelectorAll('.work:not(.hidden) .media.img'));show(list.indexOf(b));lb.classList.add('open');});
 function close(){lb.classList.remove('open');lbi.removeAttribute('src');}
 document.getElementById('lbx').addEventListener('click',close);
 document.getElementById('lbp').addEventListener('click',function(){show((idx-1+list.length)%list.length);});
